@@ -11,9 +11,8 @@ redirect_from:
 I am a Ph.D. candidate in Economics at New York University (NYU). \
 Research Interests: Macroeconomics, Asset Pricing, Labor Economics \
 Email: [dql204@nyu.edu](mailto:dql204@nyu.edu)
-<br>
+
 ### [CV/Resume](../CV_Do_Lee.pdf)
-<br>
 
 Education
 =========
