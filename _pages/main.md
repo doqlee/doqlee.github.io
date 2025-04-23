@@ -38,7 +38,7 @@ Publications
 *Journal of International Economics*, 2021, 133(C): 103526 \
 \[<a href="#/" onclick="visib('FLPR2021')">Abstract</a>\] \[[PDF](../files/mediaSentiment.pdf)\] \[[DOI](https://doi.org/10.1016/j.jinteco.2021.103526)\] \[[WP](https://www.nber.org/papers/w25353)\] \[[Code and Data](https://doi.org/10.7910/DVN/QNKFJF)]
 <div id="FLPR2021" style="display: none; text-align: justify; line-height: 1.2" >
-We investigate the relationship between media sentiment and international equity prices using a new dataset of 4 million news articles published between 1991 and 2015. Three key results emerge. First, news sentiment robustly predicts future daily returns around the world. However, we find a sharp contrast between the effect of local news and that of global news: whereas local news optimism (pessimism) predicts a small and transitory increase (decrease) in local equity returns, global news sentiment has a larger impact on returns that does not reverse in the short run. Second, news sentiment affects local prices mainly through the investment decisions of foreign—rather than local—investors. Third, large variations in global news sentiment predominantly happen in the absence of new information about fundamentals, suggesting that movements in global sentiment capture variations in investors sentiment. Taken together, our findings illustrate the key role played by foreign news and investors sentiment in driving local asset prices.
+We investigate the relationship between media sentiment and international equity prices using a new dataset of 4 million news articles published between 1991 and 2015. Three key results emerge. First, news sentiment robustly predicts future daily returns around the world. However, we find a sharp contrast between the effect of local news and that of global news: whereas local news optimism (pessimism) predicts a small and transitory increase (decrease) in local equity returns, global news sentiment has a larger impact on returns that does not reverse in the short run. Second, news sentiment affects local prices mainly through the investment decisions of foreign—rather than local—investors. Third, large variations in global news sentiment predominantly happen in the absence of new information about fundamentals, suggesting that movements in global sentiment capture variations in investors' sentiment. Taken together, our findings illustrate the key role played by foreign news and investors' sentiment in driving local asset prices.
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="FLPR2021"/>
 </div>
@@ -117,7 +117,7 @@ Digital trace data holds tremendous potential for measuring policy-relevant outc
 <IMG src="../files/time_series_cycle_h20.png"  alt="FGLST2025"/>
 </div>
 
-Work-in-Progress
+Work in Progress
 =========
 ---
 
