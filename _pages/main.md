@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at New York University (NYU). <br>
-Research Interests: Macroeconomics, Asset Pricing, Labor Economics
+I am a Ph.D. candidate in Economics at New York University (NYU). \
+Research Interests: Macroeconomics, Asset Pricing, Labor Economics \
+\
+\[[CV/Resume](../CV_Do_Lee.pdf)\]
 
 Education
 =========
