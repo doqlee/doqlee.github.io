@@ -17,6 +17,9 @@ I am a Ph.D. candidate in Economics at New York University (NYU).
 - Ph.D. in Economics, New York University (expected May 2026)  
 - B.A. in Economics and B.S. in Mathematics, University of Chicago, June 2017  
 
+<div id="Research">
+</div>
+
 ---
 ## Job Market Paper
 ---
