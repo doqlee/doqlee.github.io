@@ -21,7 +21,7 @@ Education
 * Ph.D. in Economics, New York University, 2026 (Expected)
 * B.A. in Economics and B.S. in Mathematics, University of Chicago, 2017  
 
-<div id="Research">
+<div id="research">
 </div>
 
 Job Market Paper
@@ -144,6 +144,9 @@ El Paso, TX, the poorest CSA in the sample. These geographic disparities persist
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="GLC2024"/>
 <br>
+</div>
+
+<div id="teaching">
 </div>
 
 Teaching
