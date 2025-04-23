@@ -68,7 +68,7 @@ We investigate how demand conditions affect employers' provision of safety---som
 <div id="CL2023" style="display: none; text-align: justify; line-height: 1.2" >
 We show that the TFP growth of European micro, small, and medium-sized firms (SMEs) diverged from large firms after the global financial crisis. The average postcrisis TFP growth of medium-sized, small, and micro firms was, respectively, 1.1, 2.9, and 5.4 percentage points lower than that of large firms. This SME productivity gap is larger for firms with more severe credit supply shocks. The gap is partially attributable to a larger postcrisis reduction in intangible capital at SMEs than at large firms. Horseraces suggest that SME indicators are more robust and more powerful predictors of postcrisis TFP growth than other indicators.
 <br>
-<IMG src="../files/CL2023.png"  alt="CL2023" width=50% height=50%/>
+<IMG src="../files/CL2023.png"  alt="CL2023" style="width:50%; height:auto;"/>
 <br>
 </div>
 
@@ -94,7 +94,7 @@ BIS Working Paper No. 987, 2022 \
 <div id="HIL2022" style="display: none; text-align: justify; line-height: 1.2" >
 How does unconventional monetary policy affect corporate capital structure and investment decisions? We study the transmission channel of quantitative easing and its potential diminishing returns on investment from a corporate finance perspective. Using a rich bankfirm matched data of Japanese firms with information on corporate debt and investment, we study how firms adjust their capital structure in response to the changes in term premia. Investment responds positively to a reduction in the term premium on average. However, there is a significant degree of cross-sectional variation in firm response: healthier firms increase capital spending and cash holdings, while financially vulnerable firms take advantage of lower long-term yields to refinance without increasing investment.
 <br>
-<IMG src="../files/HIL2022.png"  alt="HIL2022" width=50% height=50%/>
+<IMG src="../files/HIL2022.png"  alt="HIL2022" style="width:50%; height:auto;"/>
 <br>
 </div>
 
@@ -105,7 +105,7 @@ IMF Working Paper No. 220, 2024 \
 <div id="CILM2024" style="display: none; text-align: justify; line-height: 1.2" >
 U.S. inflation surged in 2021-22 and has since declined, driven largely by a sharp drop in goods inflation, though services inflation remains elevated. This paper zooms into services inflation, using proprietary microdata on wages to examine its relationship with service sector wage growth at the Metropolitan Statistical Area (MSA) level. We estimate the wage-price pass-through with a local projection instrumental variable model that exploits variation in labor market tightness across MSAs. Our findings reveal a positive and significant relationship between wages and price growth, with a lag. This suggests that the effects of tight labor markets are persistent and may influence the pace of progression toward the inflation target.
 <br>
-<IMG src="../files/CILM2024.png"  alt="CILM2024" width=50% height=50%/>
+<IMG src="../files/CILM2024.png"  alt="CILM2024" style="width:50%; height:auto;"/>
 <br>
 </div>
 
@@ -116,7 +116,7 @@ IMF Working Paper No. 222, 2024 \
 <div id="CL2024" style="display: none; text-align: justify; line-height: 1.2" >
 We analyze post-pandemic labor earnings using employer-employee data and find that earnings grew faster in counties with tighter labor markets and with greater access to loans through the Paycheck Protection Program (PPP), with the impact of PPP loans especially pronounced in areas with tighter labor markets. This divergence in earnings growth is particularly large for lower-paid, nonmanagerial workers, and those employed in smaller firms. Both wage increases and additional hours worked contributed to the overall growth in earnings. These findings align with a labor market competition framework, where tight labor markets reduce earnings disparities. Access to credit further strengthens the competition by relaxing firms’ financing constraints.
 <br>
-<IMG src="../files/CL2024.png"  alt="CL2024" width=50% height=50%/>
+<IMG src="../files/CL2024.png"  alt="CL2024" style="width:50%; height:auto;"/>
 <br>
 </div>
 
@@ -140,7 +140,7 @@ Work in Progress
 This paper uses representative large-sample household surveys to document that life cycle wage growth varies substantially across areas within the United States. Wages grow more over the life cycle in richer Combined Statistical Areas (CSA) with higher income per capita. For example, after 20 years of experience, the average worker's wage is about 90.2% higher in Washington, DC, the richest area in the sample, but only by 66.1% in
 El Paso, TX, the poorest CSA in the sample. These geographic disparities persist even after conditioning on educational attainment groups. A counterfactual accounting exercise suggests that differences in educational attainment plays only a modest role by accounting for about 13.1\% of the differences in experience-wage profiles. The result is consistent with theories in which workers in poor areas accumulate less human capital on the job, or stronger search frictions in poor areas prevent workers from climbing the job ladder.
 <br>
-<IMG src="../files/scatter_csa_year.png"  alt="GLC2024" width=50% height=50%/>
+<IMG src="../files/scatter_csa_year.png"  alt="GLC2024" style="width:50%; height:auto;"/>
 <br>
 </div>
 
