@@ -7,6 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<style>
+  img {
+    margin-bottom: 20px;
+  }
+</style>
 
 I am a Ph.D. candidate in Economics at New York University (NYU). \
 Research Interests: Macroeconomics, Asset Pricing, Labor Economics \
