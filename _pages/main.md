@@ -68,7 +68,7 @@ We investigate how demand conditions affect employers' provision of safety---som
 <div id="CL2023" style="display: none; text-align: justify; line-height: 1.2" >
 We show that the TFP growth of European micro, small, and medium-sized firms (SMEs) diverged from large firms after the global financial crisis. The average postcrisis TFP growth of medium-sized, small, and micro firms was, respectively, 1.1, 2.9, and 5.4 percentage points lower than that of large firms. This SME productivity gap is larger for firms with more severe credit supply shocks. The gap is partially attributable to a larger postcrisis reduction in intangible capital at SMEs than at large firms. Horseraces suggest that SME indicators are more robust and more powerful predictors of postcrisis TFP growth than other indicators.
 <br>
-<IMG src="../files/time_series_cycle_h20.png"  alt="CL2023"/>
+<IMG src="../files/CL2023.png"  alt="CL2023"/>
 <br>
 </div>
 
