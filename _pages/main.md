@@ -45,6 +45,7 @@ We investigate the relationship between media sentiment and international equity
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="FLPR2021"/>
 </div>
+<br>
 
 **3. Demand Conditions and Worker Safety: Evidence from Price Shocks in Mining** \
 (with [Kerwin Charles](https://faculty.som.yale.edu/kerwincharles/), [Matthew Johnson](https://sites.google.com/site/mslaterjohnson/home?authuser=0), and [Mel Stephens](https://sites.lsa.umich.edu/mstep/)) \
@@ -56,6 +57,7 @@ We investigate how demand conditions affect employers' provision of safety---som
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="CJLS2022"/>
 </div>
+<br>
 
 **4. Small and Vulnerable: Small Firm Productivity in the Great Productivity Slowdown** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
@@ -66,6 +68,7 @@ We show that the TFP growth of European micro, small, and medium-sized firms (SM
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="CL2023"/>
 </div>
+<br>
 
 **5. 280 Characters to Employment: Using Twitter to Quantify Job Vacancies** \
 (with [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), [Manuel Tonneau](https://manueltonneau.com/), [Samuel Fraiberger](https://www.samuelfraiberger.com/), and [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg)) \
@@ -76,6 +79,7 @@ Accurate assessment of workforce needs is critical for designing well-informed e
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="STFGL2024"/>
 </div>
+<br>
 
 Working Papers
 =========
@@ -90,6 +94,7 @@ How does unconventional monetary policy affect corporate capital structure and i
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="HIL2022"/>
 </div>
+<br>
 
 **7. Inflation and Labor Markets: A Bottom-Up View** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home), [Deniz Igan](https://www.bis.org/author/deniz_igan.htm), and [Prachi Mishra](https://prachimishra.in/)) \
@@ -100,6 +105,7 @@ U.S. inflation surged in 2021-22 and has since declined, driven largely by a sha
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="CILM2024"/>
 </div>
+<br>
 
 **8. Divergence in Post-Pandemic Earnings Growth: Evidence from Micro Data** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
@@ -110,6 +116,7 @@ We analyze post-pandemic labor earnings using employer-employee data and find th
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="CL2024"/>
 </div>
+<br>
 
 **9. Can Social Media Reliably Estimate Unemployment?** \
 (with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)), 2025 \
@@ -119,6 +126,7 @@ Digital trace data holds tremendous potential for measuring policy-relevant outc
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="FGLST2025"/>
 </div>
+<br>
 
 Work in Progress
 =========
@@ -132,6 +140,7 @@ El Paso, TX, the poorest CSA in the sample. These geographic disparities persist
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="GLC2024"/>
 </div>
+<br>
 
 
 
