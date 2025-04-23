@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at New York University (NYU). 
+I am a Ph.D. candidate in Economics at New York University (NYU). \ 
+Research Interests: Macroeconomics, Asset Pricing, Labor Economics
 
 Education
 =========
 ---
-* Ph.D. in Economics, New York University
-* B.A. in Economics and B.S. in Mathematics, University of Chicago, June 2017  
+* Ph.D. in Economics, New York University, 2026 (Expected)
+* B.A. in Economics and B.S. in Mathematics, University of Chicago, 2017  
 
 <div id="Research">
 </div>
@@ -36,7 +37,8 @@ Publications
 **2. Media Sentiment and International Asset Prices** \
 (with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Damien Puy](https://sites.google.com/view/damienpuy), and [Romain Ranciere](https://rranciere.academia.edu/)) \
 *Journal of International Economics*, 2021, 133(C): 103526 \
-\[<a href="#/" onclick="visib('FLPR2021')">Abstract</a>\] \[[PDF](../files/mediaSentiment.pdf)\] \[[DOI](https://doi.org/10.1016/j.jinteco.2021.103526)\] \[[WP](https://www.nber.org/papers/w25353)\] \[[Code and Data](https://doi.org/10.7910/DVN/QNKFJF)]
+\[<a href="#/" onclick="visib('FLPR2021')">Abstract</a>\] \[[PDF](../files/mediaSentiment.pdf)\] \[[DOI](https://doi.org/10.1016/j.jinteco.2021.103526)\] \[[WP](https://www.nber.org/papers/w25353)\] \[[Code and Data](https://doi.org/10.7910/DVN/QNKFJF)] \ 
+Media: \[[IMF Blog](https://www.imf.org/en/Blogs/Articles/2019/12/16/blog-the-power-of-text)] \[[IMF Research Perspectives](https://www.imf.org/-/media/Files/Research/research-perspective/2019/SpringSummer/index.ashx)\] 
 <div id="FLPR2021" style="display: none; text-align: justify; line-height: 1.2" >
 We investigate the relationship between media sentiment and international equity prices using a new dataset of 4 million news articles published between 1991 and 2015. Three key results emerge. First, news sentiment robustly predicts future daily returns around the world. However, we find a sharp contrast between the effect of local news and that of global news: whereas local news optimism (pessimism) predicts a small and transitory increase (decrease) in local equity returns, global news sentiment has a larger impact on returns that does not reverse in the short run. Second, news sentiment affects local prices mainly through the investment decisions of foreign—rather than local—investors. Third, large variations in global news sentiment predominantly happen in the absence of new information about fundamentals, suggesting that movements in global sentiment capture variations in investors' sentiment. Taken together, our findings illustrate the key role played by foreign news and investors' sentiment in driving local asset prices.
 <br>
