@@ -9,7 +9,7 @@ redirect_from:
 ---
 <style>
   img {
-    margin-bottom: 15px;
+    margin-bottom: 20px;
   }
 </style>
 
@@ -49,7 +49,7 @@ Media: [IMF Blog](https://www.imf.org/en/Blogs/Articles/2019/12/16/blog-the-powe
 <div id="FLPR2021" style="display: none; text-align: justify; line-height: 1.2" >
 We investigate the relationship between media sentiment and international equity prices using a new dataset of 4 million news articles published between 1991 and 2015. Three key results emerge. First, news sentiment robustly predicts future daily returns around the world. However, we find a sharp contrast between the effect of local news and that of global news: whereas local news optimism (pessimism) predicts a small and transitory increase (decrease) in local equity returns, global news sentiment has a larger impact on returns that does not reverse in the short run. Second, news sentiment affects local prices mainly through the investment decisions of foreign—rather than local—investors. Third, large variations in global news sentiment predominantly happen in the absence of new information about fundamentals, suggesting that movements in global sentiment capture variations in investors' sentiment. Taken together, our findings illustrate the key role played by foreign news and investors' sentiment in driving local asset prices.
 <br>
-<IMG src="../files/time_series_cycle_h20.png"  alt="FLPR2021" style="width:70%; height:auto;"/>
+<IMG src="../files/FLPR2021.png"  alt="FLPR2021" style="width:70%; height:auto;"/>
 </div>
 
 **3. Demand Conditions and Worker Safety: Evidence from Price Shocks in Mining** \
