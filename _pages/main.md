@@ -47,7 +47,7 @@ We investigate the relationship between media sentiment and international equity
 (with [Kerwin Charles](https://faculty.som.yale.edu/kerwincharles/), [Matthew Johnson](https://sites.google.com/site/mslaterjohnson/home?authuser=0), and [Mel Stephens](https://sites.lsa.umich.edu/mstep/)) \
 *Journal of Labor Economics*, 2022, 40(1): 47-94 \
 \[<a href="#/" onclick="visib('CJLS2022')">Abstract</a>\] \[[PDF](../files/Mining.pdf)\] \[[DOI](https://doi.org/10.1086/713887)\] \[[WP](https://www.nber.org/papers/w26401)\] \[[Code and Data](https://github.com/doqlee/mining)] \
-Media: \[[Yale Insights](https://insights.som.yale.edu/insights/firms-sacrifice-worker-safety-when-demand-is-high)\] \
+Media: \[[Yale Insights](https://insights.som.yale.edu/insights/firms-sacrifice-worker-safety-when-demand-is-high)\] 
 <div id="CJLS2022" style="display: none; text-align: justify; line-height: 1.2" >
 We investigate how demand conditions affect employers' provision of safety---something about which theory is ambivalent. Positive demand shocks relax financial constraints that limit safety investment but simultaneously raise the opportunity cost of increasing safety rather than production. We study the US metals mining sector, leveraging exogenous demand shocks from short-term variation in global commodity prices. We find that positive price shocks substantially increase workplace injury rates and safety regulation noncompliance. While these results indicate the general dominance of the opportunity cost effect, shocks that only increase mines' cash flow lower injury rates, illustrating that financial constraints also affect safety.
 <br>
