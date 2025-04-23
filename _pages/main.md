@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Economics at New York University (NYU).
 Education
 =========
 ---
-* Ph.D. in Economics, New York University (expected May 2026)  
+* Ph.D. Candidate in Economics, New York University
 * B.A. in Economics and B.S. in Mathematics, University of Chicago, June 2017  
 
 <div id="Research">
