@@ -124,7 +124,7 @@ Work-in-Progress
 **10. The Geography of Life Cycle Wage Growth in the United States**, 2024 \
 \[<a href="#/" onclick="visib('GLC2024')">Abstract</a>\] \[[PDF](../files/LifeCycle.pdf)\]  
 <div id="GLC2024" style="display: none; text-align: justify; line-height: 1.2" >
-This paper uses representative large-sample household surveys to document that life cycle wage growth varies substantially across areas within the United States. Wages grow more over the life cycle in richer Combined Statistical Areas (CSA) with higher income per capita. For example, after 20 years of experience, the average worker's wage is about 90.2\% higher in Washington, DC, the richest area in the sample, but only by 66.1\% in
+This paper uses representative large-sample household surveys to document that life cycle wage growth varies substantially across areas within the United States. Wages grow more over the life cycle in richer Combined Statistical Areas (CSA) with higher income per capita. For example, after 20 years of experience, the average worker's wage is about 90.2% higher in Washington, DC, the richest area in the sample, but only by 66.1% in
 El Paso, TX, the poorest CSA in the sample. These geographic disparities persist even after conditioning on educational attainment groups. A counterfactual accounting exercise suggests that differences in educational attainment plays only a modest role by accounting for about 13.1\% of the differences in experience-wage profiles. The result is consistent with theories in which workers in poor areas accumulate less human capital on the job, or stronger search frictions in poor areas prevent workers from climbing the job ladder.
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="GLC2024"/>
