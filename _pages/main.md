@@ -79,7 +79,7 @@ We show that the TFP growth of European micro, small, and medium-sized firms (SM
 <div id="STFGL2024" style="display: none; text-align: justify; line-height: 1.2" >
 Accurate assessment of workforce needs is critical for designing well-informed economic policy and improving market efficiency. While surveys are the gold standard for estimating when and where workers are needed, they also have important limitations, most notably their substantial costs, dependence on existing and extensive surveying infrastructure, and limited temporal, geographical, and sectorial resolution. Here, we investigate the potential of social media to provide a complementary signal for estimating labor market demand. We introduce a novel statistical approach for extracting information about the location and occupation advertised in job vacancies posted on Twitter. We then construct an aggregate index of labor market demand by occupational class in every major U.S. city from 2015 to 2022, which we evaluate against two sources of official statistics and an index from a large aggregator of online job postings. We find that the newly constructed index is strongly correlated with official statistics and, in some cases, advantageous compared to statistics from job aggregators. Moreover, we demonstrate that our index can robustly improve the prediction of official statistics across occupations and states.
 <br>
-<IMG src="../files/time_series_cycle_h20.png"  alt="STFGL2024"/>
+<IMG src="../files/STFGL2024.png"  alt="STFGL2024"/>
 <br>
 </div>
 
@@ -94,7 +94,7 @@ BIS Working Paper No. 987, 2022 \
 <div id="HIL2022" style="display: none; text-align: justify; line-height: 1.2" >
 How does unconventional monetary policy affect corporate capital structure and investment decisions? We study the transmission channel of quantitative easing and its potential diminishing returns on investment from a corporate finance perspective. Using a rich bankfirm matched data of Japanese firms with information on corporate debt and investment, we study how firms adjust their capital structure in response to the changes in term premia. Investment responds positively to a reduction in the term premium on average. However, there is a significant degree of cross-sectional variation in firm response: healthier firms increase capital spending and cash holdings, while financially vulnerable firms take advantage of lower long-term yields to refinance without increasing investment.
 <br>
-<IMG src="../files/time_series_cycle_h20.png"  alt="HIL2022"/>
+<IMG src="../files/HIL2022.png"  alt="HIL2022"/>
 <br>
 </div>
 
