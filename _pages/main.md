@@ -81,7 +81,7 @@ Working Papers
 **6. Zombies on the Brink: Evidence from Japan on the Reversal of Monetary Policy Effectiveness** \
 (with [Gee Hee Hong](https://sites.google.com/site/geeheehong/home) and [Deniz Igan](https://www.bis.org/author/deniz_igan.htm)) \
 BIS Working Paper No. 987, 2022 \
-\[<a href="#/" onclick="visib('HIL2022')">Abstract</a>\] \[[PDF](https://www.dropbox.com/scl/fi/gzll4xlr3xn94qlkbkp4q/Japan.pdf?rlkey=eo98ydcufim5kgfpojle8knto&dl=0)\] \[[DOI](https://www.bis.org/publ/work987.htm)\]
+\[<a href="#/" onclick="visib('HIL2022')">Abstract</a>\] \[[PDF](https://www.dropbox.com/scl/fi/gzll4xlr3xn94qlkbkp4q/Japan.pdf?rlkey=eo98ydcufim5kgfpojle8knto&dl=0)\] \[[WP](https://www.bis.org/publ/work987.htm)\]
 <div id="HIL2022" style="display: none; text-align: justify; line-height: 1.2" >
 How does unconventional monetary policy affect corporate capital structure and investment decisions? We study the transmission channel of quantitative easing and its potential diminishing returns on investment from a corporate finance perspective. Using a rich bankfirm matched data of Japanese firms with information on corporate debt and investment, we study how firms adjust their capital structure in response to the changes in term premia. Investment responds positively to a reduction in the term premium on average. However, there is a significant degree of cross-sectional variation in firm response: healthier firms increase capital spending and cash holdings, while financially vulnerable firms take advantage of lower long-term yields to refinance without increasing investment.
 <br>
@@ -91,7 +91,7 @@ How does unconventional monetary policy affect corporate capital structure and i
 **7. Inflation and Labor Markets: A Bottom-Up View** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home), [Deniz Igan](https://www.bis.org/author/deniz_igan.htm), and [Prachi Mishra](https://prachimishra.in/)) \
 IMF Working Paper No. 220, 2024 \
-\[<a href="#/" onclick="visib('CILM2024')">Abstract</a>\] \[[PDF](https://www.dropbox.com/scl/fi/6x5sy6l0a0i656l55eu0c/HomebaseInflation.pdf?rlkey=loxncybowtfmizqndjwaz4nsd&dl=0)\] \[[DOI](https://doi.org/10.5089/9798400291807.001)\]
+\[<a href="#/" onclick="visib('CILM2024')">Abstract</a>\] \[[PDF](https://www.dropbox.com/scl/fi/6x5sy6l0a0i656l55eu0c/HomebaseInflation.pdf?rlkey=loxncybowtfmizqndjwaz4nsd&dl=0)\] \[[WP](https://doi.org/10.5089/9798400291807.001)\]
 <div id="CILM2024" style="display: none; text-align: justify; line-height: 1.2" >
 U.S. inflation surged in 2021-22 and has since declined, driven largely by a sharp drop in goods inflation, though services inflation remains elevated. This paper zooms into services inflation, using proprietary microdata on wages to examine its relationship with service sector wage growth at the Metropolitan Statistical Area (MSA) level. We estimate the wage-price pass-through with a local projection instrumental variable model that exploits variation in labor market tightness across MSAs. Our findings reveal a positive and significant relationship between wages and price growth, with a lag. This suggests that the effects of tight labor markets are persistent and may influence the pace of progression toward the inflation target.
 <br>
@@ -101,7 +101,7 @@ U.S. inflation surged in 2021-22 and has since declined, driven largely by a sha
 **8. Divergence in Post-Pandemic Earnings Growth: Evidence from Micro Data** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
 IMF Working Paper No. 222, 2024 \
-\[<a href="#/" onclick="visib('CL2024')">Abstract</a>\] \[[PDF](https://www.dropbox.com/scl/fi/if5l6z6q3o3zvsovm3w00/HB_analysis.pdf?rlkey=j0nwmif9c641mnnvh9d3ybf5h&dl=0)\] \[[DOI](https://doi.org/10.5089/9798400291814.001)\]
+\[<a href="#/" onclick="visib('CL2024')">Abstract</a>\] \[[PDF](https://www.dropbox.com/scl/fi/if5l6z6q3o3zvsovm3w00/HB_analysis.pdf?rlkey=j0nwmif9c641mnnvh9d3ybf5h&dl=0)\] \[[WP](https://doi.org/10.5089/9798400291814.001)\]
 <div id="CL2024" style="display: none; text-align: justify; line-height: 1.2" >
 We analyze post-pandemic labor earnings using employer-employee data and find that earnings grew faster in counties with tighter labor markets and with greater access to loans through the Paycheck Protection Program (PPP), with the impact of PPP loans especially pronounced in areas with tighter labor markets. This divergence in earnings growth is particularly large for lower-paid, nonmanagerial workers, and those employed in smaller firms. Both wage increases and additional hours worked contributed to the overall growth in earnings. These findings align with a labor market competition framework, where tight labor markets reduce earnings disparities. Access to credit further strengthens the competition by relaxing firms’ financing constraints.
 <br>
