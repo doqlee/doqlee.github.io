@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in Economics at New York University (NYU). < br / >
+I am a Ph.D. candidate in Economics at New York University (NYU). <br>
 Research Interests: Macroeconomics, Asset Pricing, Labor Economics
 
 Education
