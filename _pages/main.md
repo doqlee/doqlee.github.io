@@ -126,7 +126,7 @@ We analyze post-pandemic labor earnings using employer-employee data and find th
 <div id="FGLST2025" style="display: none; text-align: justify; line-height: 1.2" >
 Digital trace data holds tremendous potential for measuring policy-relevant outcomes in real-time, yet its reliability is often questioned. Here, we propose a principled yet simple approach: capturing individual disclosures of unemployment using a custom large language model and post-stratification adjustment using inferred user demographics. We show that our methodology consistently outperforms the industry's forecasting average, and can improve the predictions of U.S. unemployment insurance claims, up to two weeks in advance, at the national, state, and city levels at both turbulent and stable times. The results demonstrate the potential of combining large language models with statistical modeling to complement traditional survey methodology, and contribute to better-informed policymaking, especially at turbulent times.
 <br>
-<IMG src="../files/time_series_cycle_h20.png"  alt="FGLST2025"/>
+<IMG src="../files/FGLST2025.png"  alt="FGLST2025"/>
 <br>
 </div>
 
