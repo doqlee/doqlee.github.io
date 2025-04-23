@@ -57,7 +57,7 @@ Media: [Yale Insights](https://insights.som.yale.edu/insights/firms-sacrifice-wo
 <div id="CJLS2022" style="display: none; text-align: justify; line-height: 1.2" >
 We investigate how demand conditions affect employers' provision of safety---something about which theory is ambivalent. Positive demand shocks relax financial constraints that limit safety investment but simultaneously raise the opportunity cost of increasing safety rather than production. We study the US metals mining sector, leveraging exogenous demand shocks from short-term variation in global commodity prices. We find that positive price shocks substantially increase workplace injury rates and safety regulation noncompliance. While these results indicate the general dominance of the opportunity cost effect, shocks that only increase mines' cash flow lower injury rates, illustrating that financial constraints also affect safety.
 <br>
-<IMG src="../files/time_series_cycle_h20.png"  alt="CJLS2022"/>
+<IMG src="../files/CJLS2022.png"  alt="CJLS2022"/>
 <br>
 </div>
 
