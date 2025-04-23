@@ -13,7 +13,7 @@ I am a Ph.D. candidate in Economics at New York University (NYU).
 Education
 =========
 ---
-* Ph.D. Candidate in Economics, New York University
+* Ph.D. in Economics, New York University
 * B.A. in Economics and B.S. in Mathematics, University of Chicago, June 2017  
 
 <div id="Research">
@@ -36,7 +36,7 @@ Publications
 **2. Media Sentiment and International Asset Prices** \
 (with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Damien Puy](https://sites.google.com/view/damienpuy), and [Romain Ranciere](https://rranciere.academia.edu/)) \
 *Journal of International Economics*, 2021, 133(C): 103526 \
-\[<a href="#/" onclick="visib('FLPR2021')">Abstract</a>\] \[[PDF](../files/mediaSentiment.pdf)\] \[[DOI](https://doi.org/10.1016/j.jinteco.2021.103526)\] \[[WP](https://www.nber.org/papers/w25353)\]
+\[<a href="#/" onclick="visib('FLPR2021')">Abstract</a>\] \[[PDF](../files/mediaSentiment.pdf)\] \[[DOI](https://doi.org/10.1016/j.jinteco.2021.103526)\] \[[WP](https://www.nber.org/papers/w25353)\] \[[Code and Data\](https://doi.org/10.7910/DVN/QNKFJF)]
 <div id="FLPR2021" style="display: none; text-align: justify; line-height: 1.2" >
 We investigate the relationship between media sentiment and international equity prices using a new dataset of 4 million news articles published between 1991 and 2015. Three key results emerge. First, news sentiment robustly predicts future daily returns around the world. However, we find a sharp contrast between the effect of local news and that of global news: whereas local news optimism (pessimism) predicts a small and transitory increase (decrease) in local equity returns, global news sentiment has a larger impact on returns that does not reverse in the short run. Second, news sentiment affects local prices mainly through the investment decisions of foreign—rather than local—investors. Third, large variations in global news sentiment predominantly happen in the absence of new information about fundamentals, suggesting that movements in global sentiment capture variations in investors sentiment. Taken together, our findings illustrate the key role played by foreign news and investors sentiment in driving local asset prices.
 <br>
@@ -46,7 +46,7 @@ We investigate the relationship between media sentiment and international equity
 **3. Demand Conditions and Worker Safety: Evidence from Price Shocks in Mining** \
 (with [Kerwin Charles](https://faculty.som.yale.edu/kerwincharles/), [Matthew Johnson](https://sites.google.com/site/mslaterjohnson/home?authuser=0), and [Mel Stephens](https://sites.lsa.umich.edu/mstep/)) \
 *Journal of Labor Economics*, 2022, 40(1): 47-94 \
-\[<a href="#/" onclick="visib('CJLS2022')">Abstract</a>\] \[[PDF](../files/Mining.pdf)\] \[[DOI](https://doi.org/10.1086/713887)\] \[[WP](https://www.nber.org/papers/w26401)\]
+\[<a href="#/" onclick="visib('CJLS2022')">Abstract</a>\] \[[PDF](../files/Mining.pdf)\] \[[DOI](https://doi.org/10.1086/713887)\] \[[WP](https://www.nber.org/papers/w26401)\] \[[Code and Data\](https://github.com/doqlee/mining)]
 Media: \[[Yale Insights](https://insights.som.yale.edu/insights/firms-sacrifice-worker-safety-when-demand-is-high)\]
 <div id="CJLS2022" style="display: none; text-align: justify; line-height: 1.2" >
 We investigate how demand conditions affect employers' provision of safety---something about which theory is ambivalent. Positive demand shocks relax financial constraints that limit safety investment but simultaneously raise the opportunity cost of increasing safety rather than production. We study the US metals mining sector, leveraging exogenous demand shocks from short-term variation in global commodity prices. We find that positive price shocks substantially increase workplace injury rates and safety regulation noncompliance. While these results indicate the general dominance of the opportunity cost effect, shocks that only increase mines' cash flow lower injury rates, illustrating that financial constraints also affect safety.
@@ -57,7 +57,7 @@ We investigate how demand conditions affect employers' provision of safety---som
 **4. Small and Vulnerable: Small Firm Productivity in the Great Productivity Slowdown** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
 *Journal of Financial Economics*, 2023, 147(1): 49-74 \
-\[<a href="#/" onclick="visib('CL2023')">Abstract</a>\] \[[PDF](../files/SmallAndVulnerable.pdf)\] \[[DOI](https://doi.org/10.1016/j.jfineco.2022.09.007)\]
+\[<a href="#/" onclick="visib('CL2023')">Abstract</a>\] \[[PDF](../files/SmallAndVulnerable.pdf)\] \[[DOI](https://doi.org/10.1016/j.jfineco.2022.09.007)\] \[[Code and Data\](https://doi.org/10.17632/49wv286my4.1)]
 <div id="CL2023" style="display: none; text-align: justify; line-height: 1.2" >
 We show that the TFP growth of European micro, small, and medium-sized firms (SMEs) diverged from large firms after the global financial crisis. The average postcrisis TFP growth of medium-sized, small, and micro firms was, respectively, 1.1, 2.9, and 5.4 percentage points lower than that of large firms. This SME productivity gap is larger for firms with more severe credit supply shocks. The gap is partially attributable to a larger postcrisis reduction in intangible capital at SMEs than at large firms. Horseraces suggest that SME indicators are more robust and more powerful predictors of postcrisis TFP growth than other indicators.
 <br>
@@ -67,7 +67,7 @@ We show that the TFP growth of European micro, small, and medium-sized firms (SM
 **5. 280 Characters to Employment: Using Twitter to Quantify Job Vacancies** \
 (with [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), [Manuel Tonneau](https://manueltonneau.com/), [Samuel Fraiberger](https://www.samuelfraiberger.com/), and [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg)) \
 *Proceedings of the International AAAI Conference on Web and Social Media*, 2024, 18(1), 1477-1489 \
-\[<a href="#/" onclick="visib('STFGL2024')">Abstract</a>\] \[[PDF](../files/job_offers_twitter_icwsm_2023.pdf)\] \[[DOI](https://doi.org/10.1609/icwsm.v18i1.31403)\]
+\[<a href="#/" onclick="visib('STFGL2024')">Abstract</a>\] \[[PDF](../files/job_offers_twitter_icwsm_2023.pdf)\] \[[DOI](https://doi.org/10.1609/icwsm.v18i1.31403)\] \[[Code and Data\](https://github.com/Socially-Embedded-Lab/twitter-job-postings)]
 <div id="STFGL2024" style="display: none; text-align: justify; line-height: 1.2" >
 Accurate assessment of workforce needs is critical for designing well-informed economic policy and improving market efficiency. While surveys are the gold standard for estimating when and where workers are needed, they also have important limitations, most notably their substantial costs, dependence on existing and extensive surveying infrastructure, and limited temporal, geographical, and sectorial resolution. Here, we investigate the potential of social media to provide a complementary signal for estimating labor market demand. We introduce a novel statistical approach for extracting information about the location and occupation advertised in job vacancies posted on Twitter. We then construct an aggregate index of labor market demand by occupational class in every major U.S. city from 2015 to 2022, which we evaluate against two sources of official statistics and an index from a large aggregator of online job postings. We find that the newly constructed index is strongly correlated with official statistics and, in some cases, advantageous compared to statistics from job aggregators. Moreover, we demonstrate that our index can robustly improve the prediction of official statistics across occupations and states.
 <br>
