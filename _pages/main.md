@@ -30,6 +30,7 @@ This paper studies unemployment fluctuations when expectations deviate from a ra
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="BDUF"/>
 </div>
+<br>
 
 Publications
 =========
