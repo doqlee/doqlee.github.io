@@ -105,7 +105,7 @@ IMF Working Paper No. 220, 2024 \
 <div id="CILM2024" style="display: none; text-align: justify; line-height: 1.2" >
 U.S. inflation surged in 2021-22 and has since declined, driven largely by a sharp drop in goods inflation, though services inflation remains elevated. This paper zooms into services inflation, using proprietary microdata on wages to examine its relationship with service sector wage growth at the Metropolitan Statistical Area (MSA) level. We estimate the wage-price pass-through with a local projection instrumental variable model that exploits variation in labor market tightness across MSAs. Our findings reveal a positive and significant relationship between wages and price growth, with a lag. This suggests that the effects of tight labor markets are persistent and may influence the pace of progression toward the inflation target.
 <br>
-<IMG src="../files/time_series_cycle_h20.png"  alt="CILM2024"/>
+<IMG src="../files/CILM2024.png"  alt="CILM2024"/>
 <br>
 </div>
 
@@ -116,7 +116,7 @@ IMF Working Paper No. 222, 2024 \
 <div id="CL2024" style="display: none; text-align: justify; line-height: 1.2" >
 We analyze post-pandemic labor earnings using employer-employee data and find that earnings grew faster in counties with tighter labor markets and with greater access to loans through the Paycheck Protection Program (PPP), with the impact of PPP loans especially pronounced in areas with tighter labor markets. This divergence in earnings growth is particularly large for lower-paid, nonmanagerial workers, and those employed in smaller firms. Both wage increases and additional hours worked contributed to the overall growth in earnings. These findings align with a labor market competition framework, where tight labor markets reduce earnings disparities. Access to credit further strengthens the competition by relaxing firms’ financing constraints.
 <br>
-<IMG src="../files/time_series_cycle_h20.png"  alt="CL2024"/>
+<IMG src="../files/CL2024.png"  alt="CL2024"/>
 <br>
 </div>
 
