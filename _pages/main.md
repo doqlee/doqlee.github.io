@@ -26,9 +26,9 @@ Job Market Paper
 \[<a href="#/" onclick="visib('BDUF')">Abstract</a>\] \[[PDF](../files/main.pdf)\]  
 <div id="BDUF" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies unemployment fluctuations when expectations deviate from a rational benchmark. By using survey forecasts, I decompose time-series and cross-sectional variation in job filling rates. Under subjective beliefs, hiring is driven by predictable errors in cash flow expectations, while discount rates play a minor role. In contrast, rational expectations assign a dominant role to discount rates. Survey measures of the user cost of labor are acyclical, indicating more rigidity under subjective beliefs. The findings suggest that belief distortions can amplify unemployment fluctuations: over-optimism about cash flows during expansions leads to future disappointment, which suppresses labor demand during recessions even as perceived labor costs remain persistently high. 
-<p></p>
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="BDUF"/>
+<p></p>
 </div>
 
 Publications
