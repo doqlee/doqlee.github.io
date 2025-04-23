@@ -134,7 +134,7 @@ Work in Progress
 =========
 ---
 
-**10. The Geography of Life Cycle Wage Growth in the United States**, 2024 \
+**10. The Geography of Life Cycle Wage Growth**, 2024 \
 <a href="#/" onclick="visib('GLC2024')">Abstract</a> [PDF](../files/LifeCycle.pdf)  
 <div id="GLC2024" style="display: none; text-align: justify; line-height: 1.2" >
 This paper uses representative large-sample household surveys to document that life cycle wage growth varies substantially across areas within the United States. Wages grow more over the life cycle in richer Combined Statistical Areas (CSA) with higher income per capita. For example, after 20 years of experience, the average worker's wage is about 90.2% higher in Washington, DC, the richest area in the sample, but only by 66.1% in
