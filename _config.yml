@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Do Lee"
+title                    : "Do Q Lee"
 title_separator          : "-"
-name                     : &name "Do Lee"
+name                     : &name "Do Q Lee"
 description              : &description "Ph.D. Candidate in Economics at New York University (NYU)"
 url                      : https://doqlee.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,11 +23,11 @@ repository               : "doqlee/doqlee.github.io"
 author:
   # Biographic information
   avatar           : "../files/profile.jpg"
-  name             : "Do Lee"
+  name             : "Do Q Lee"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics at New York University"
-  location         : # "New York, NY"
-  employer         : # "New York University"
+  location         : "New York, NY"
+  employer         : "New York University"
   uri              : # URL
   email            : "dql204@nyu.edu" 
 
