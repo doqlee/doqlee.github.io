@@ -18,8 +18,8 @@ I am a Ph.D. candidate in Economics at New York University (NYU). \
 Research Interests: Macroeconomics, Asset Pricing, Labor Economics \
 Email: [dql204@nyu.edu](mailto:dql204@nyu.edu) \
 [CV/Resume](../CV_Do_Lee.pdf)
+<br>
 
----
 Education
 =========
 ---
@@ -28,8 +28,8 @@ Education
 
 <div id="Research">
 </div>
+<br>
 
----
 Job Market Paper
 =========
 ---
@@ -40,8 +40,8 @@ This paper studies unemployment fluctuations when expectations deviate from a ra
 <br><br>
 <!-- <IMG src="../files/time_series_cycle_h20.png"  alt="BDUF"/> -->
 </div>
+<br>
 
----
 Publications
 =========
 ---
@@ -86,8 +86,8 @@ Accurate assessment of workforce needs is critical for designing well-informed e
 <br><br>
 <!-- <IMG src="../files/STFGL2024.png"  alt="STFGL2024"/> -->
 </div>
+<br>
 
----
 Working Papers
 =========
 ---
@@ -130,8 +130,8 @@ Digital trace data holds tremendous potential for measuring policy-relevant outc
 <br><br>
 <!-- <IMG src="../files/FGLST2025.png"  alt="FGLST2025"/> -->
 </div>
+<br>
 
----
 Work in Progress
 =========
 ---
@@ -147,8 +147,8 @@ El Paso, TX, the poorest CSA in the sample. These geographic disparities persist
 
 <div id="Teaching">
 </div>
+<br>
 
----
 Teaching
 =========
 ---
