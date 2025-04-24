@@ -35,11 +35,11 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=DZVTjMIAAAAJ" # URL "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : # URL "http://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-8451-6965" # URL "http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # URL "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Do-Lee-9?ev=hdr_xprf" # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57309496100" # URL
   ssrn             : "https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3792131"
 
   # Repositories and software development
