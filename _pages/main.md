@@ -36,7 +36,7 @@ Job Market Paper
 **1. Belief Distortions and Unemployment Fluctuations** \
 <a href="#/" onclick="visib('BDUF')">Abstract</a> [PDF](../files/main.pdf)  
 <div id="BDUF" style="display: none; text-align: justify; line-height: 1.2" >
-This paper studies unemployment fluctuations when expectations deviate from a rational benchmark. By using survey forecasts, I decompose time-series and cross-sectional variation in job filling rates, a key determinant of unemployment dynamics. Under subjective beliefs, hiring is driven by predictable errors in expected cash flows, while discount rates play a limited role. In contrast, rational expectations assign a dominant role to discount rates. A structural model in which firms engage in constant-gain learning about mean earnings growth replicates these findings by generating realistic fluctuations in hiring behavior. Over-optimism during expansions leads to future disappointment, which suppresses labor demand in downturns and amplifies unemployment volatility.
+This paper studies unemployment fluctuations when expectations deviate from a rational benchmark. By using survey forecasts, I decompose variation in job filling rates, a key determinant of unemployment dynamics. Under subjective beliefs, hiring is driven by predictable errors in expected cash flows, while discount rates play a limited role. In contrast, rational expectations assign a dominant role to discount rates. A model in which firms engage in constant-gain learning about mean earnings growth can reproduce these findings. 
 <br><br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="BDUF"/>
 </div>
