@@ -38,7 +38,7 @@ Job Market Paper
 <div id="BDUF" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies unemployment fluctuations when expectations deviate from a rational benchmark. Using survey forecasts, I decompose variation in the aggregate job filling rate, a key determinant of unemployment, into news about future discount rates and expected cash flows. Under subjective beliefs, the job filling rate is driven by predictable errors in expected cash flows, while discount rates play a limited role. In contrast, rational expectations assign a dominant role to discount rates. A cross-sectional decomposition shows that dispersion in hiring rates across firms can be largely explained by distorted beliefs about future cash flows. A search and matching model with constant-gain learning about long-run earnings growth can reproduce these findings. 
 <br><br>
-<IMG src="../files/variance_decomposition.png"  alt="BDUF" style="width:70%; height:auto;"/>
+<IMG src="../files/variance_decomposition.png"  alt="BDUF" style="width:90%; height:auto;"/>
 </div>
 <br>
 
