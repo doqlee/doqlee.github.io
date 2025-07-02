@@ -77,23 +77,13 @@ We show that the TFP growth of European micro, small, and medium-sized firms (SM
 <br><br>
 <IMG src="../files/CL2023.png"  alt="CL2023" style="width:70%; height:auto;"/>
 </div>
-
-**5. 280 Characters to Employment: Using Twitter to Quantify Job Vacancies** \
-(with [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), [Manuel Tonneau](https://manueltonneau.com/), [Samuel Fraiberger](https://www.samuelfraiberger.com/), and [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg)) \
-*Proceedings of the International AAAI Conference on Web and Social Media*, 2024, 18(1), 1477-1489 \
-<a href="#/" onclick="visib('STFGL2024')">Abstract</a> [PDF](../files/job_offers_twitter_icwsm_2023.pdf) [DOI](https://doi.org/10.1609/icwsm.v18i1.31403) [Code and Data](https://github.com/Socially-Embedded-Lab/twitter-job-postings)
-<div id="STFGL2024" style="display: none; text-align: justify; line-height: 1.2" >
-Accurate assessment of workforce needs is critical for designing well-informed economic policy and improving market efficiency. While surveys are the gold standard for estimating when and where workers are needed, they also have important limitations, most notably their substantial costs, dependence on existing and extensive surveying infrastructure, and limited temporal, geographical, and sectorial resolution. Here, we investigate the potential of social media to provide a complementary signal for estimating labor market demand. We introduce a novel statistical approach for extracting information about the location and occupation advertised in job vacancies posted on Twitter. We then construct an aggregate index of labor market demand by occupational class in every major U.S. city from 2015 to 2022, which we evaluate against two sources of official statistics and an index from a large aggregator of online job postings. We find that the newly constructed index is strongly correlated with official statistics and, in some cases, advantageous compared to statistics from job aggregators. Moreover, we demonstrate that our index can robustly improve the prediction of official statistics across occupations and states.
-<br><br>
-<IMG src="../files/STFGL2024.png"  alt="STFGL2024"/>
-</div>
 <br>
 
 Working Papers
 =========
 ---
 
-**6. Zombies on the Brink: Evidence from Japan on the Reversal of Monetary Policy Effectiveness** \
+**5. Zombies on the Brink: Evidence from Japan on the Reversal of Monetary Policy Effectiveness** \
 (with [Gee Hee Hong](https://sites.google.com/site/geeheehong/home) and [Deniz Igan](https://www.bis.org/author/deniz_igan.htm)) \
 BIS Working Paper No. 987, 2022 \
 <a href="#/" onclick="visib('HIL2022')">Abstract</a> [PDF](../files/Japan.pdf) [Working Paper](https://www.bis.org/publ/work987.htm)
@@ -103,7 +93,7 @@ How does unconventional monetary policy affect corporate capital structure and i
 <IMG src="../files/HIL2022.png"  alt="HIL2022" style="width:70%; height:auto;"/>
 </div>
 
-**7. Inflation and Labor Markets: A Bottom-Up View** \
+**6. Inflation and Labor Markets: A Bottom-Up View** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home), [Deniz Igan](https://www.bis.org/author/deniz_igan.htm), and [Prachi Mishra](https://prachimishra.in/)) \
 IMF Working Paper No. 220, 2024 \
 <a href="#/" onclick="visib('CILM2024')">Abstract</a> [PDF](../files/HomebaseInflation.pdf) [Working Paper](https://doi.org/10.5089/9798400291807.001)
@@ -113,7 +103,7 @@ U.S. inflation surged in 2021-22 and has since declined, driven largely by a sha
 <IMG src="../files/CILM2024.png"  alt="CILM2024" style="width:70%; height:auto;"/>
 </div>
 
-**8. Divergence in Post-Pandemic Earnings Growth: Evidence from Micro Data** \
+**7. Divergence in Post-Pandemic Earnings Growth: Evidence from Micro Data** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
 IMF Working Paper No. 222, 2024 \
 <a href="#/" onclick="visib('CL2024')">Abstract</a> [PDF](../files/HB_analysis.pdf) [Working Paper](https://doi.org/10.5089/9798400291814.001)
@@ -123,14 +113,18 @@ We analyze post-pandemic labor earnings using employer-employee data and find th
 <IMG src="../files/CL2024.png"  alt="CL2024" style="width:70%; height:auto;"/>
 </div>
 
+**8. 280 Characters to Employment: Using Twitter to Quantify Job Vacancies** \
+(with [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), [Manuel Tonneau](https://manueltonneau.com/), [Samuel Fraiberger](https://www.samuelfraiberger.com/), and [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg)) \
+*Proceedings of the International AAAI Conference on Web and Social Media*, 2024, 18(1), 1477-1489 \
+<a href="#/" onclick="visib('STFGL2024')">Abstract</a> [PDF](../files/job_offers_twitter_icwsm_2023.pdf) [DOI](https://doi.org/10.1609/icwsm.v18i1.31403) [Code and Data](https://github.com/Socially-Embedded-Lab/twitter-job-postings)
+<div id="STFGL2024" style="display: none; text-align: justify; line-height: 1.2" >
+Accurate assessment of workforce needs is critical for designing well-informed economic policy and improving market efficiency. While surveys are the gold standard for estimating when and where workers are needed, they also have important limitations, most notably their substantial costs, dependence on existing and extensive surveying infrastructure, and limited temporal, geographical, and sectorial resolution. Here, we investigate the potential of social media to provide a complementary signal for estimating labor market demand. We introduce a novel statistical approach for extracting information about the location and occupation advertised in job vacancies posted on Twitter. We then construct an aggregate index of labor market demand by occupational class in every major U.S. city from 2015 to 2022, which we evaluate against two sources of official statistics and an index from a large aggregator of online job postings. We find that the newly constructed index is strongly correlated with official statistics and, in some cases, advantageous compared to statistics from job aggregators. Moreover, we demonstrate that our index can robustly improve the prediction of official statistics across occupations and states.
+
 **9. Can Social Media Reliably Estimate Unemployment?** \
 (with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)), 2025 \
-<a href="#/" onclick="visib('FGLST2025')">Abstract</a> [PDF](../files/twitter_unemployment.pdf)  
+<a href="#/" onclick="visib('FGLST2025')">Abstract</a> 
 <div id="FGLST2025" style="display: none; text-align: justify; line-height: 1.2" >
 Digital trace data holds tremendous potential for measuring policy-relevant outcomes in real-time, yet its reliability is often questioned. Here, we propose a principled yet simple approach: capturing individual disclosures of unemployment using a custom large language model and post-stratification adjustment using inferred user demographics. We show that our methodology consistently outperforms the industry's forecasting average, and can improve the predictions of U.S. unemployment insurance claims, up to two weeks in advance, at the national, state, and city levels at both turbulent and stable times. The results demonstrate the potential of combining large language models with statistical modeling to complement traditional survey methodology, and contribute to better-informed policymaking, especially at turbulent times.
-<br><br>
-<IMG src="../files/FGLST2025.png"  alt="FGLST2025"/>
-</div>
 <br>
 
 
