@@ -26,7 +26,7 @@ author:
   name             : "Do Q Lee"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D. Candidate in Economics at New York University"
-  location         : "New York, NY"
+  location         : # "New York, NY"
   employer         : "New York University"
   uri              : # URL
   email            : "dql204@nyu.edu" 
