@@ -71,7 +71,7 @@ We investigate how demand conditions affect employers' provision of safety—som
 **4. Small and Vulnerable: Small Firm Productivity in the Great Productivity Slowdown** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
 *Journal of Financial Economics*, 2023, 147(1): 49-74 \
-<a href="#/" onclick="visib('CL2023')">Abstract</a> [PDF](../files/SmallAndVulnerable.pdf) [DOI](https://doi.org/10.1016/j.jfineco.2022.09.007) [Working Paper]([https://www.nber.org/papers/w26401](https://doi.org/10.5089/9781513564647.001)) [Code and Data](https://doi.org/10.17632/49wv286my4.1)
+<a href="#/" onclick="visib('CL2023')">Abstract</a> [PDF](../files/SmallAndVulnerable.pdf) [DOI](https://doi.org/10.1016/j.jfineco.2022.09.007) [Working Paper](https://doi.org/10.5089/9781513564647.001) [Code and Data](https://doi.org/10.17632/49wv286my4.1)
 <div id="CL2023" style="display: none; text-align: justify; line-height: 1.2" >
 We show that the TFP growth of European micro, small, and medium-sized firms (SMEs) diverged from large firms after the global financial crisis. The average post-crisis TFP growth of medium-sized, small, and micro firms was, respectively, 1.1, 2.9, and 5.4 percentage points lower than that of large firms. This SME productivity gap is larger for firms with more severe credit supply shocks. The gap is partially attributable to a larger post-crisis reduction in intangible capital at SMEs than at large firms. Horseraces suggest that SME indicators are more robust and more powerful predictors of post-crisis TFP growth than other indicators.
 <br><br>
