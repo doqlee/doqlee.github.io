@@ -84,7 +84,7 @@ Working Papers
 ---
 
 **5. Zombies on the Brink: Evidence from Japan on the Reversal of Monetary Policy Effectiveness** \
-(with [Gee Hee Hong](https://sites.google.com/site/geeheehong/home) and [Deniz Igan](https://www.bis.org/author/deniz_igan.htm)) \
+(with [Gee Hee Hong](https://sites.google.com/site/geeheehong/home) and [Deniz Igan](https://www.imf.org/en/Research/Researcher-CV/Author/Igan-Deniz?AuthID=163#Background)) \
 BIS Working Paper No. 987, 2022 \
 <a href="#/" onclick="visib('HIL2022')">Abstract</a> [PDF](../files/Japan.pdf) [Working Paper](https://www.bis.org/publ/work987.htm)
 <div id="HIL2022" style="display: none; text-align: justify; line-height: 1.2" >
@@ -94,7 +94,7 @@ How does unconventional monetary policy affect corporate capital structure and i
 </div>
 
 **6. Inflation and Labor Markets: A Bottom-Up View** \
-(with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home), [Deniz Igan](https://www.bis.org/author/deniz_igan.htm), and [Prachi Mishra](https://prachimishra.in/)) \
+(with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home), [Deniz Igan](https://www.imf.org/en/Research/Researcher-CV/Author/Igan-Deniz?AuthID=163#Background), and [Prachi Mishra](https://prachimishra.in/)) \
 IMF Working Paper No. 220, 2024 \
 <a href="#/" onclick="visib('CILM2024')">Abstract</a> [PDF](../files/HomebaseInflation.pdf) [Working Paper](https://doi.org/10.5089/9798400291807.001)
 <div id="CILM2024" style="display: none; text-align: justify; line-height: 1.2" >
