@@ -141,7 +141,7 @@ Teaching
 
 * **Intermediate Macroeconomics** (Undergraduate)  
   *Teaching Assistant, NYU, 2020*  
-  Professor: Jess Benhabib
+  Professor: [Jess Benhabib](https://sites.google.com/site/jessbenhabib/home?authuser=0)
 
 
 [//]: This java script is the button to show abstract
