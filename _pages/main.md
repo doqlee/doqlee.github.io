@@ -137,7 +137,7 @@ Teaching
 
 * **Applied Statistics & Econometrics I-II** (Master’s)  
   *Teaching Assistant, NYU, 2021–2023*  
-  Professors: Banani Nandi, Bruce McNevin, Elena Goldman
+  Professors: [Banani Nandi](https://www.researchgate.net/profile/Banani-Nandi), Bruce McNevin, Elena Goldman
 
 * **Intermediate Macroeconomics** (Undergraduate)  
   *Teaching Assistant, NYU, 2020*  
