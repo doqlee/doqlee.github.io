@@ -12,6 +12,16 @@ redirect_from:
     margin-top: 20px;
     margin-bottom: 20px;
   }
+  
+  /* Remove underlines from all links */
+  a {
+    text-decoration: none;
+  }
+  
+  /* Optional: Add underline on hover for better UX */
+  a:hover {
+    text-decoration: underline;
+  }
 </style>
 
 I am a Ph.D. candidate in Economics at New York University (NYU). \
