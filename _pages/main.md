@@ -35,9 +35,9 @@ Job Market Paper
 =========
 ---
 **Belief Distortions and Unemployment Fluctuations** \
-<a href="#/" onclick="visib('BDUF')">Abstract</a> [PDF](../files/main.pdf)  
+<a href="#/" onclick="visib('BDUF')">Abstract</a> [PDF](../files/belief_distortions_unemployment_fluctuations.pdf)  
 <div id="BDUF" style="display: none; text-align: justify; line-height: 1.2" >
-This paper studies the joint dynamics of asset prices and unemployment when expectations deviate from a rational benchmark. To analyze the role of distorted beliefs, I use the firm's optimal hiring condition in a search-and-matching model to decompose hiring decisions into subjective expectations of their future cash flows and discount rates, both in the time-series and the cross-section. Subjective beliefs implied by survey forecasts generate predictable forecast errors that systematically over-react to news about cash flows. Under these subjective beliefs, hiring is driven by predictable errors in expected cash flows, while discount rates play a limited role. In contrast, rational expectations assign a dominant role to discount rates, implying that subjective beliefs overestimate the importance of cash flows. A search-and-matching model in which agents learn with fading memory about cash flow growth can reproduce these patterns. These results suggest that belief over-reaction in the financial market can generate large unemployment fluctuations by distorting firms' hiring decisions. 
+This paper studies the dynamics of asset prices and unemployment when expectations deviate from a rational benchmark. Using the firm's hiring condition in a search-and-matching model, I decompose the value of hiring into expected cash flows and discount rates, both in the time series and cross section. Survey forecasts overreact to news by generating predictable errors in cash flow expectations. Under these subjective beliefs, distorted cash flow expectations drive hiring decisions, while discount rates play a limited role. In contrast, rational expectations assign a dominant role to discount rates. A model in which agents learn with fading memory about long-run cash flow growth can reproduce these patterns and generate a large share of observed unemployment volatility. 
 <br><br>
 <IMG src="../files/variance_decomposition.png"  alt="BDUF" style="width:90%; height:auto;"/>
 </div>
