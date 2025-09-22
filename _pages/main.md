@@ -3,20 +3,26 @@ permalink: /
 title: "About"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
+redirect_from:
   - /about/
   - /about.html
 ---
 <style>
-  img {
-    margin-top: 20px;
-    margin-bottom: 20px;
-  }
-  
-  .page__content a,
-  .archive a,
-  a {
+  /* image spacing */
+  img { margin-top: 20px; margin-bottom: 20px; }
+
+  /* kill theme underlines (box-shadow/border-bottom) in page content */
+  .page__content a:not(.btn),
+  .page__content a:not(.btn):visited {
     text-decoration: none !important;
+    border-bottom: 0 !important;   /* older skins */
+    box-shadow: none !important;    /* newer skins */
+  }
+  .page__content a:not(.btn):hover,
+  .page__content a:not(.btn):focus {
+    text-decoration: none !important;
+    border-bottom: 0 !important;
+    box-shadow: none !important;
   }
 </style>
 
