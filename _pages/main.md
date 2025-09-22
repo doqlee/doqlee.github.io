@@ -12,13 +12,9 @@ redirect_from:
     margin-top: 20px;
     margin-bottom: 20px;
   }
-
+  
   a {
-    text-decoration: none;   /* removes underline */
-  }
-
-  a:hover, a:focus {
-    text-decoration: underline; /* optional: underline on hover for accessibility */
+    text-decoration: none;
   }
 </style>
 
