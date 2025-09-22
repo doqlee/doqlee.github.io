@@ -131,6 +131,9 @@ Digital trace data holds tremendous potential for measuring policy-relevant outc
 </div>
 <br>
 
+<div id="Teaching">
+</div>
+<br>
 
 Teaching
 =========
