@@ -13,8 +13,10 @@ redirect_from:
     margin-bottom: 20px;
   }
   
+  .page__content a,
+  .archive a,
   a {
-    text-decoration: none;
+    text-decoration: none !important;
   }
 </style>
 
