@@ -27,7 +27,7 @@ redirect_from:
 </style>
 
 I am a Ph.D. candidate in Economics at New York University (NYU). 
-* Research Interests: Macroeconomics, Asset Pricing, Labor Economics 
+* Interests: Macroeconomics, Asset Pricing, Labor Economics 
 * Email: [dql204@nyu.edu](mailto:dql204@nyu.edu) 
 * I will be on the 2025-2026 academic job market.
 
