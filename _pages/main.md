@@ -27,10 +27,9 @@ redirect_from:
 </style>
 
 I am a Ph.D. candidate in Economics at New York University (NYU). \
-Research Interests: Macroeconomics, Asset Pricing, Labor Economics \
-Email: [dql204@nyu.edu](mailto:dql204@nyu.edu) 
-
-I will be on the 2025-2026 academic job market.
+* Research Interests: Macroeconomics, Asset Pricing, Labor Economics \
+* Email: [dql204@nyu.edu](mailto:dql204@nyu.edu) 
+* I will be on the 2025-2026 academic job market.
 
 [**[CV]**](../files/CV_Do_Lee.pdf)
 <br><br>
@@ -122,7 +121,7 @@ U.S. inflation surged in 2021-22 and has since declined, driven largely by a sha
 IMF Working Paper No. 222, 2024 \
 <a href="#/" onclick="visib('CL2024')">[Abstract]</a> [[PDF]](../files/HB_analysis.pdf) [[Working Paper]](https://doi.org/10.5089/9798400291814.001)
 <div id="CL2024" style="display: none; text-align: justify; line-height: 1.2" >
-We analyze post-pandemic labor earnings using employer-employee data and find that earnings grew faster in counties with tighter labor markets and with greater access to loans through the Paycheck Protection Program (PPP), with the impact of PPP loans especially pronounced in areas with tighter labor markets. This divergence in earnings growth is particularly large for lower-paid, nonmanagerial workers, and those employed in smaller firms. Both wage increases and additional hours worked contributed to the overall growth in earnings. These findings align with a labor market competition framework, where tight labor markets reduce earnings disparities. Access to credit further strengthens the competition by relaxing firms’ financing constraints.
+We analyze post-pandemic labor earnings using employer-employee data and find that earnings grew faster in counties with tighter labor markets and with greater access to loans through the Paycheck Protection Program (PPP), with the impact of PPP loans especially pronounced in areas with tighter labor markets. This divergence in earnings growth is particularly large for lower-paid, nonmanagerial workers, and those employed in smaller firms. Both wage increases and additional hours worked contributed to the overall growth in earnings. These findings align with a labor market competition framework, where tight labor markets reduce earnings disparities. Access to credit further strengthens the competition by relaxing firms' financing constraints.
 <br><br>
 <IMG src="../files/CL2024.png"  alt="CL2024" style="width:70%; height:auto;"/>
 </div>
@@ -153,11 +152,11 @@ Teaching
 =========
 ---
 
-**Applied Statistics & Econometrics I-II** (Master’s)  
+**Applied Statistics & Econometrics I-II (Master's)** 
 *Teaching Assistant, NYU, 2021–2023*  
 Professors: [Banani Nandi](https://www.researchgate.net/profile/Banani-Nandi), [Bruce McNevin](https://www.brucemcnevin.org/), [Elena Goldman](https://www.pace.edu/profile/elena-goldman)
 
-**Intermediate Macroeconomics** (Undergraduate)  
+**Intermediate Macroeconomics (Undergraduate)**  
 *Teaching Assistant, NYU, 2020*  
 Professor: [Jess Benhabib](https://sites.google.com/site/jessbenhabib/home?authuser=0)
 
