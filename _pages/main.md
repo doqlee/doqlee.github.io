@@ -152,7 +152,7 @@ Teaching
 =========
 ---
 
-**Applied Statistics & Econometrics I-II (Master's)** 
+**Applied Statistics & Econometrics I-II (Master's)** \
 *Teaching Assistant, NYU, 2021–2023*  
 Professors: [Banani Nandi](https://www.researchgate.net/profile/Banani-Nandi), [Bruce McNevin](https://www.brucemcnevin.org/), [Elena Goldman](https://www.pace.edu/profile/elena-goldman)
 
