@@ -135,7 +135,6 @@ Accurate assessment of workforce needs is critical for designing well-informed e
 <br><br>
 <IMG src="../files/STFGL2024.png"  alt="STFGL2024"/>
 </div>
-<br>
 
 **Can Social Media Reliably Estimate Unemployment?** \
 (with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)) \
@@ -146,7 +145,6 @@ Digital trace data holds tremendous potential for measuring policy-relevant outc
 <br><br>
 <IMG src="../files/FGLST2025.png"  alt="FGLST2025"/>
 </div>
-<br>
 
 <div id="Teaching">
 </div>
