@@ -138,7 +138,7 @@ Accurate assessment of workforce needs is critical for designing well-informed e
 **Can Social Media Reliably Estimate Unemployment?** \
 (with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)) \
 *PNAS Nexus*, Forthcoming 2025 \
-<a href="#/" onclick="visib('FGLST2025')">[Abstract]</a> [[PDF]](https://www.overleaf.com/read/vyvrcnjvwkmf#f54663) [[Code and Data]](https://github.com/doqlee/twitter_unemployment)
+<a href="#/" onclick="visib('FGLST2025')">[Abstract]</a> [[PDF]](../files/Research_report.pdf) [[Supplementary Materials]](../files/sm.pdf) [[Code and Data]](https://github.com/doqlee/twitter_unemployment)
 <div id="FGLST2025" style="display: none; text-align: justify; line-height: 1.2" >
 Digital trace data holds tremendous potential for measuring policy-relevant outcomes in real-time, yet its reliability is often questioned. Here, we propose a principled yet simple approach: capturing individual disclosures of unemployment using a fine-tuned artificial intelligence (AI) model and post-stratification adjustment using inferred user demographics. We show that our methodology consistently outperforms the industry's forecasting average, and can improve the predictions of U.S. unemployment insurance claims, up to two weeks in advance, at the national, state, and city levels at both turbulent and stable times. The results demonstrate the potential of combining AI models with statistical modeling to complement traditional survey methodology, and contribute to better-informed policymaking, especially at turbulent times.
 </div>
