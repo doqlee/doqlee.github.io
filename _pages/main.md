@@ -59,15 +59,14 @@ This paper studies the dynamics of asset prices and unemployment when expectatio
 Publications
 =========
 ---
-**Media Sentiment and International Asset Prices** \
-(with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Damien Puy](https://sites.google.com/view/damienpuy), and [Romain Ranciere](https://rranciere.academia.edu/)) \
-*Journal of International Economics*, 2021, 133(C): 103526 \
-<a href="#/" onclick="visib('FLPR2021')">[Abstract]</a> [[PDF]](../files/mediaSentiment.pdf) [[DOI]](https://doi.org/10.1016/j.jinteco.2021.103526) [[Working Paper]](https://www.nber.org/papers/w25353) [[Code and Data]](https://doi.org/10.7910/DVN/QNKFJF) \
-Media: [[IMF Blog]](https://www.imf.org/en/Blogs/Articles/2019/12/16/blog-the-power-of-text) [[IMF Research Perspectives]](https://www.imf.org/-/media/Files/Research/research-perspective/2019/SpringSummer/index.ashx) 
-<div id="FLPR2021" style="display: none; text-align: justify; line-height: 1.2" >
-We investigate the relationship between media sentiment and international equity prices using a new dataset of 4 million news articles published between 1991 and 2015. Three key results emerge. First, news sentiment robustly predicts future daily returns around the world. However, we find a sharp contrast between the effect of local news and that of global news: whereas local news optimism (pessimism) predicts a small and transitory increase (decrease) in local equity returns, global news sentiment has a larger impact on returns that does not reverse in the short run. Second, news sentiment affects local prices mainly through the investment decisions of foreign—rather than local—investors. Third, large variations in global news sentiment predominantly happen in the absence of new information about fundamentals, suggesting that movements in global sentiment capture variations in investors' sentiment. Taken together, our findings illustrate the key role played by foreign news and investors' sentiment in driving local asset prices.
+**Small and Vulnerable: Small Firm Productivity in the Great Productivity Slowdown** \
+(with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
+*Journal of Financial Economics*, 2023, 147(1): 49-74 \
+<a href="#/" onclick="visib('CL2023')">[Abstract]</a> [[PDF]](../files/SmallAndVulnerable.pdf) [[DOI]](https://doi.org/10.1016/j.jfineco.2022.09.007) [[Working Paper]](https://doi.org/10.5089/9781513564647.001) [[Code and Data]](https://doi.org/10.17632/49wv286my4.1)
+<div id="CL2023" style="display: none; text-align: justify; line-height: 1.2" >
+We show that the TFP growth of European micro, small, and medium-sized firms (SMEs) diverged from large firms after the global financial crisis. The average post-crisis TFP growth of medium-sized, small, and micro firms was, respectively, 1.1, 2.9, and 5.4 percentage points lower than that of large firms. This SME productivity gap is larger for firms with more severe credit supply shocks. The gap is partially attributable to a larger post-crisis reduction in intangible capital at SMEs than at large firms. Horseraces suggest that SME indicators are more robust and more powerful predictors of post-crisis TFP growth than other indicators.
 <br><br>
-<IMG src="../files/FLPR2021.png"  alt="FLPR2021" style="width:70%; height:auto;"/>
+<IMG src="../files/CL2023.png"  alt="CL2023" style="width:70%; height:auto;"/>
 </div>
 
 **Demand Conditions and Worker Safety: Evidence from Price Shocks in Mining** \
@@ -81,14 +80,15 @@ We investigate how demand conditions affect employers' provision of safety—som
 <IMG src="../files/CJLS2022.png"  alt="CJLS2022"/>
 </div>
 
-**Small and Vulnerable: Small Firm Productivity in the Great Productivity Slowdown** \
-(with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
-*Journal of Financial Economics*, 2023, 147(1): 49-74 \
-<a href="#/" onclick="visib('CL2023')">[Abstract]</a> [[PDF]](../files/SmallAndVulnerable.pdf) [[DOI]](https://doi.org/10.1016/j.jfineco.2022.09.007) [[Working Paper]](https://doi.org/10.5089/9781513564647.001) [[Code and Data]](https://doi.org/10.17632/49wv286my4.1)
-<div id="CL2023" style="display: none; text-align: justify; line-height: 1.2" >
-We show that the TFP growth of European micro, small, and medium-sized firms (SMEs) diverged from large firms after the global financial crisis. The average post-crisis TFP growth of medium-sized, small, and micro firms was, respectively, 1.1, 2.9, and 5.4 percentage points lower than that of large firms. This SME productivity gap is larger for firms with more severe credit supply shocks. The gap is partially attributable to a larger post-crisis reduction in intangible capital at SMEs than at large firms. Horseraces suggest that SME indicators are more robust and more powerful predictors of post-crisis TFP growth than other indicators.
+**Media Sentiment and International Asset Prices** \
+(with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Damien Puy](https://sites.google.com/view/damienpuy), and [Romain Ranciere](https://rranciere.academia.edu/)) \
+*Journal of International Economics*, 2021, 133(C): 103526 \
+<a href="#/" onclick="visib('FLPR2021')">[Abstract]</a> [[PDF]](../files/mediaSentiment.pdf) [[DOI]](https://doi.org/10.1016/j.jinteco.2021.103526) [[Working Paper]](https://www.nber.org/papers/w25353) [[Code and Data]](https://doi.org/10.7910/DVN/QNKFJF) \
+Media: [[IMF Blog]](https://www.imf.org/en/Blogs/Articles/2019/12/16/blog-the-power-of-text) [[IMF Research Perspectives]](https://www.imf.org/-/media/Files/Research/research-perspective/2019/SpringSummer/index.ashx) 
+<div id="FLPR2021" style="display: none; text-align: justify; line-height: 1.2" >
+We investigate the relationship between media sentiment and international equity prices using a new dataset of 4 million news articles published between 1991 and 2015. Three key results emerge. First, news sentiment robustly predicts future daily returns around the world. However, we find a sharp contrast between the effect of local news and that of global news: whereas local news optimism (pessimism) predicts a small and transitory increase (decrease) in local equity returns, global news sentiment has a larger impact on returns that does not reverse in the short run. Second, news sentiment affects local prices mainly through the investment decisions of foreign—rather than local—investors. Third, large variations in global news sentiment predominantly happen in the absence of new information about fundamentals, suggesting that movements in global sentiment capture variations in investors' sentiment. Taken together, our findings illustrate the key role played by foreign news and investors' sentiment in driving local asset prices.
 <br><br>
-<IMG src="../files/CL2023.png"  alt="CL2023" style="width:70%; height:auto;"/>
+<IMG src="../files/FLPR2021.png"  alt="FLPR2021" style="width:70%; height:auto;"/>
 </div>
 <br>
 
@@ -96,14 +96,22 @@ Working Papers
 =========
 ---
 
-**Zombies on the Brink: Evidence from Japan on the Reversal of Monetary Policy Effectiveness** \
-(with [Gee Hee Hong](https://sites.google.com/site/geeheehong/home) and [Deniz Igan](https://www.imf.org/en/Research/Researcher-CV/Author/Igan-Deniz?AuthID=163#Background)) \
-BIS Working Paper No. 987, 2022 \
-<a href="#/" onclick="visib('HIL2022')">[Abstract]</a> [[PDF]](../files/Japan.pdf) [[Working Paper]](https://www.bis.org/publ/work987.htm)
-<div id="HIL2022" style="display: none; text-align: justify; line-height: 1.2" >
-How does unconventional monetary policy affect corporate capital structure and investment decisions? We study the transmission channel of quantitative easing and its potential diminishing returns on investment from a corporate finance perspective. Using a rich bank-firm matched data of Japanese firms with information on corporate debt and investment, we study how firms adjust their capital structure in response to the changes in term premia. Investment responds positively to a reduction in the term premium on average. However, there is a significant degree of cross-sectional variation in firm response: healthier firms increase capital spending and cash holdings, while financially vulnerable firms take advantage of lower long-term yields to refinance without increasing investment.
+**The Prestakes of Stock Market Investing** \
+(with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/), [Sydney Ludvigson](https://www.sydneyludvigson.com/), and [Sai Ma](https://saimaecon.com/)) \
+<a href="#/" onclick="visib('BLLM2025')">[Abstract]</a> [[PDF]](https://static1.squarespace.com/static/54397369e4b0446f66937a73/t/68e98688190e9d301dd51111/1760134792035/biases_ml.pdf)
+<div id="BLLM2025" style="display: none; text-align: justify; line-height: 1.2" >
+How rational is the stock market and how efficiently does it process information? We use machine learning to establish a practical measure of rational and efficient expectation formation while identifying distortions and inefficiencies in the subjective beliefs of market participants. The algorithm independently learns, stays attentive to fundamentals, credit risk, and sentiment, and makes abrupt course-corrections at critical junctures. By contrast, the subjective beliefs of investors, professionals, and equity analysts do little of this and instead contain predictable mistakes—"prestakes"—that are especially prevalent in times of market turbulence. Trading schemes that bet against prestakes deliver defensive strategies with large CAPM and Fama-French 5-factor alphas.
 <br><br>
-<IMG src="../files/HIL2022.png"  alt="HIL2022" style="width:70%; height:auto;"/>
+</div>
+
+**Can Social Media Reliably Estimate Unemployment?** \
+(with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)) \
+*PNAS Nexus*, Forthcoming 2025 \
+<a href="#/" onclick="visib('FGLST2025')">[Abstract]</a> [[PDF]](../files/Research_report.pdf) [[Supplementary Materials]](../files/sm.pdf) [[Code and Data]](https://github.com/doqlee/twitter_unemployment)
+<div id="FGLST2025" style="display: none; text-align: justify; line-height: 1.2" >
+Digital trace data holds tremendous potential for measuring policy-relevant outcomes in real-time, yet its reliability is often questioned. Here, we propose a principled yet simple approach: capturing individual disclosures of unemployment using a fine-tuned artificial intelligence (AI) model and post-stratification adjustment using inferred user demographics. We show that our methodology consistently outperforms the industry's forecasting average, and can improve the predictions of U.S. unemployment insurance claims, up to two weeks in advance, at the national, state, and city levels at both turbulent and stable times. The results demonstrate the potential of combining AI models with statistical modeling to complement traditional survey methodology, and contribute to better-informed policymaking, especially at turbulent times.
+<br><br>
+<IMG src="../files/FGLST2025.png"  alt="FGLST2025"/>
 </div>
 
 **Inflation and Labor Markets: A Bottom-Up View** \
@@ -136,14 +144,14 @@ Accurate assessment of workforce needs is critical for designing well-informed e
 <IMG src="../files/STFGL2024.png"  alt="STFGL2024"/>
 </div>
 
-**Can Social Media Reliably Estimate Unemployment?** \
-(with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)) \
-*PNAS Nexus*, Forthcoming 2025 \
-<a href="#/" onclick="visib('FGLST2025')">[Abstract]</a> [[PDF]](../files/Research_report.pdf) [[Supplementary Materials]](../files/sm.pdf) [[Code and Data]](https://github.com/doqlee/twitter_unemployment)
-<div id="FGLST2025" style="display: none; text-align: justify; line-height: 1.2" >
-Digital trace data holds tremendous potential for measuring policy-relevant outcomes in real-time, yet its reliability is often questioned. Here, we propose a principled yet simple approach: capturing individual disclosures of unemployment using a fine-tuned artificial intelligence (AI) model and post-stratification adjustment using inferred user demographics. We show that our methodology consistently outperforms the industry's forecasting average, and can improve the predictions of U.S. unemployment insurance claims, up to two weeks in advance, at the national, state, and city levels at both turbulent and stable times. The results demonstrate the potential of combining AI models with statistical modeling to complement traditional survey methodology, and contribute to better-informed policymaking, especially at turbulent times.
+**Zombies on the Brink: Evidence from Japan on the Reversal of Monetary Policy Effectiveness** \
+(with [Gee Hee Hong](https://sites.google.com/site/geeheehong/home) and [Deniz Igan](https://www.imf.org/en/Research/Researcher-CV/Author/Igan-Deniz?AuthID=163#Background)) \
+BIS Working Paper No. 987, 2022 \
+<a href="#/" onclick="visib('HIL2022')">[Abstract]</a> [[PDF]](../files/Japan.pdf) [[Working Paper]](https://www.bis.org/publ/work987.htm)
+<div id="HIL2022" style="display: none; text-align: justify; line-height: 1.2" >
+How does unconventional monetary policy affect corporate capital structure and investment decisions? We study the transmission channel of quantitative easing and its potential diminishing returns on investment from a corporate finance perspective. Using a rich bank-firm matched data of Japanese firms with information on corporate debt and investment, we study how firms adjust their capital structure in response to the changes in term premia. Investment responds positively to a reduction in the term premium on average. However, there is a significant degree of cross-sectional variation in firm response: healthier firms increase capital spending and cash holdings, while financially vulnerable firms take advantage of lower long-term yields to refinance without increasing investment.
 <br><br>
-<IMG src="../files/FGLST2025.png"  alt="FGLST2025"/>
+<IMG src="../files/HIL2022.png"  alt="HIL2022" style="width:70%; height:auto;"/>
 </div>
 
 <div id="Teaching">
