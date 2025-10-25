@@ -44,6 +44,41 @@ redirect_from:
       font-size: 1.1em !important;
     }
   }
+
+  /* Tablet/iPad-specific styles */
+  @media (min-width: 769px) and (max-width: 1024px) {
+    .author__avatar img {
+      width: 130px !important;
+      height: 180px !important;
+      max-width: 180px !important;
+    }
+    
+    .author__name {
+      font-size: 1.6em !important;
+      margin-top: 0.8em !important;
+    }
+    
+    .author__bio {
+      font-size: 1.05em !important;
+    }
+  }
+
+  /* iPad Pro-specific styles */
+  @media (min-width: 1025px) and (max-width: 1366px) {
+    .author__avatar img {
+      width: 116px !important;
+      height: 160px !important;
+      max-width: 160px !important;
+    }
+    
+    .author__name {
+      font-size: 1.4em !important;
+    }
+    
+    .author__bio {
+      font-size: 1.02em !important;
+    }
+  }
 </style>
 
 I am a Ph.D. candidate in Economics at New York University (NYU). 
