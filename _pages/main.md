@@ -24,6 +24,26 @@ redirect_from:
     border-bottom: 0 !important;
     box-shadow: none !important;
   }
+  /* Mobile-specific styles for larger profile photo and name */
+  @media (max-width: 768px) {
+    /* Make profile photo larger on mobile */
+    .author__avatar img {
+      width: 150px !important;
+      height: 150px !important;
+      max-width: 150px !important;
+    }
+    
+    /* Make author name larger on mobile */
+    .author__name {
+      font-size: 1.8em !important;
+      margin-top: 1em !important;
+    }
+    
+    /* Optional: Make author bio text larger too */
+    .author__bio {
+      font-size: 1.1em !important;
+    }
+  }
 </style>
 
 I am a Ph.D. candidate in Economics at New York University (NYU). 
