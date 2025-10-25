@@ -89,16 +89,6 @@ I am a Ph.D. candidate in Economics at New York University (NYU).
 [**[CV]**](../files/CV_Do_Lee.pdf)
 <br><br>
 
-Education
-=========
----
-* Ph.D. in Economics, New York University, 2026 (Expected)
-* B.A. in Economics and B.S. in Mathematics, University of Chicago, 2017  
-
-<div id="Research">
-</div>
-<br>
-
 Job Market Paper
 =========
 ---
@@ -210,6 +200,16 @@ How does unconventional monetary policy affect corporate capital structure and i
 </div>
 
 <div id="Teaching">
+</div>
+<br>
+
+Education
+=========
+---
+* Ph.D. in Economics, New York University, 2026 (Expected)
+* B.A. in Economics and B.S. in Mathematics, University of Chicago, 2017  
+
+<div id="Research">
 </div>
 <br>
 
