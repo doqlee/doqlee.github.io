@@ -28,7 +28,7 @@ redirect_from:
   @media (max-width: 768px) {
     /* Make profile photo larger on mobile */
     .author__avatar img {
-      width: 150px !important;
+      width: 108px !important;
       height: 150px !important;
       max-width: 150px !important;
     }
