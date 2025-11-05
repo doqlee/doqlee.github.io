@@ -24,6 +24,13 @@ redirect_from:
     border-bottom: 0 !important;
     box-shadow: none !important;
   }
+  
+  /* Make bolded paper-title links black */
+  .page__content a > strong { color: #000 !important; }
+  .page__content a:visited > strong { color: #000 !important; }
+  .page__content a:hover > strong,
+  .page__content a:focus > strong { color: #000 !important; }
+  
   /* Mobile-specific styles for larger profile photo and name */
   @media (max-width: 768px) {
     /* Make profile photo larger on mobile */
