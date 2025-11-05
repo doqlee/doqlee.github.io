@@ -24,12 +24,7 @@ redirect_from:
     border-bottom: 0 !important;
     box-shadow: none !important;
   }
-  
-  /* Make paper titles (bolded links) black */
-  .page__content a strong {
-    color: #24292e !important; /* Sets color to black */
-  }
-  
+    
   /* Mobile-specific styles for larger profile photo and name */
   @media (max-width: 768px) {
     /* Make profile photo larger on mobile */
