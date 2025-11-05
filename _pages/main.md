@@ -25,11 +25,10 @@ redirect_from:
     box-shadow: none !important;
   }
   
-  /* Make bolded paper-title links black */
-  .page__content a > strong { color: #000 !important; }
-  .page__content a:visited > strong { color: #000 !important; }
-  .page__content a:hover > strong,
-  .page__content a:focus > strong { color: #000 !important; }
+  /* Make paper titles (bolded links) black */
+  .page__content a strong {
+    color: #000000 !important; /* Sets color to black */
+  }
   
   /* Mobile-specific styles for larger profile photo and name */
   @media (max-width: 768px) {
