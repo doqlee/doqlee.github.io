@@ -84,7 +84,7 @@ redirect_from:
 I am a Ph.D. candidate in Economics at New York University (NYU). 
 * Interests: Macroeconomics, Asset Pricing, Labor Economics 
 * Email: [dql204@nyu.edu](mailto:dql204@nyu.edu) 
-* I will be on the 2025-2026 academic job market.
+* **I am on the 2025-2026 academic job market.**
 
 [**[CV]**](../files/CV_Do_Lee.pdf)
 <br><br>
@@ -92,7 +92,7 @@ I am a Ph.D. candidate in Economics at New York University (NYU).
 Job Market Paper
 =========
 ---
-**Belief Distortions and Unemployment Fluctuations** \
+[[**Belief Distortions and Unemployment Fluctuations**]](../files/belief_distortions_unemployment_fluctuations.pdf) \
 <a href="#/" onclick="visib('BDUF')">[Abstract]</a> [[PDF]](../files/belief_distortions_unemployment_fluctuations.pdf) [[Online Appendix]](../files/onlineappendix.pdf)  
 <div id="BDUF" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the dynamics of asset prices and unemployment when expectations deviate from a rational benchmark. Using machine learning forecasts as an objective benchmark for rational and efficient beliefs, I quantify distortions in survey forecasts of firms' future cash flows and discount rates. Survey forecasts overreact to cash flow news, while machine forecasts do not. These distortions explain a large share of variation in aggregate and firm-level hiring. Following positive idiosyncratic shocks, firms with distorted beliefs overhire relative to firms whose beliefs are objective. These distorted beliefs about firms' future cash flows can explain both volatility in aggregate unemployment and dispersion in firm-level hiring. A search model in which firms learn about the long-run mean of their cash flows with fading memory can reproduce these patterns by generating a large share of observed volatility in unemployment and asset valuations. 
