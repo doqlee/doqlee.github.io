@@ -93,7 +93,7 @@ I am a Ph.D. candidate in Economics at New York University (NYU).
 Job Market Paper
 =========
 ---
-[**Belief Distortions and Unemployment Fluctuations**](../files/belief_distortions_unemployment_fluctuations.pdf) \
+**Belief Distortions and Unemployment Fluctuations** \
 <a href="#/" onclick="visib('BDUF')">[Abstract]</a> [[PDF]](../files/belief_distortions_unemployment_fluctuations.pdf) [[Online Appendix]](../files/onlineappendix.pdf)  
 <div id="BDUF" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the dynamics of asset prices and unemployment when expectations deviate from a rational benchmark. Using machine learning forecasts as an objective benchmark for rational and efficient beliefs, I quantify distortions in survey forecasts of firms' future cash flows and discount rates. Survey forecasts overreact to cash flow news, while machine forecasts do not. These distortions explain a large share of variation in aggregate and firm-level hiring. Following positive idiosyncratic shocks, firms with distorted beliefs overhire relative to firms whose beliefs are objective. These distorted beliefs about firms' future cash flows can explain both volatility in aggregate unemployment and dispersion in firm-level hiring. A search model in which firms learn about the long-run mean of their cash flows with fading memory can reproduce these patterns by generating a large share of observed volatility in unemployment and asset valuations. 
@@ -105,7 +105,7 @@ This paper studies the dynamics of asset prices and unemployment when expectatio
 Publications
 =========
 ---
-[**Small and Vulnerable: Small Firm Productivity in the Great Productivity Slowdown**](https://doi.org/10.1016/j.jfineco.2022.09.007) \
+**Small and Vulnerable: Small Firm Productivity in the Great Productivity Slowdown** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
 *Journal of Financial Economics*, 2023, 147(1): 49-74 \
 <a href="#/" onclick="visib('CL2023')">[Abstract]</a> [[PDF]](../files/SmallAndVulnerable.pdf) [[DOI]](https://doi.org/10.1016/j.jfineco.2022.09.007) [[Working Paper]](https://doi.org/10.5089/9781513564647.001) [[Code and Data]](https://doi.org/10.17632/49wv286my4.1)
@@ -115,7 +115,7 @@ We show that the TFP growth of European micro, small, and medium-sized firms (SM
 <IMG src="../files/CL2023.png"  alt="CL2023" style="width:70%; height:auto;"/>
 </div>
 
-[**Demand Conditions and Worker Safety: Evidence from Price Shocks in Mining**](https://doi.org/10.1086/713887) \
+**Demand Conditions and Worker Safety: Evidence from Price Shocks in Mining** \
 (with [Kerwin Charles](https://faculty.som.yale.edu/kerwincharles/), [Matthew Johnson](https://sites.google.com/site/mslaterjohnson/home?authuser=0), and [Mel Stephens](https://sites.lsa.umich.edu/mstep/)) \
 *Journal of Labor Economics*, 2022, 40(1): 47-94 \
 <a href="#/" onclick="visib('CJLS2022')">[Abstract]</a> [[PDF]](../files/Mining.pdf) [[DOI]](https://doi.org/10.1086/713887) [[Working Paper]](https://www.nber.org/papers/w26401) [[Code and Data]](https://github.com/doqlee/mining) \
@@ -126,7 +126,7 @@ We investigate how demand conditions affect employers' provision of safety—som
 <IMG src="../files/CJLS2022.png"  alt="CJLS2022"/>
 </div>
 
-[**Media Sentiment and International Asset Prices**](https://doi.org/10.1016/j.jinteco.2021.103526) \
+**Media Sentiment and International Asset Prices** \
 (with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Damien Puy](https://sites.google.com/view/damienpuy), and [Romain Ranciere](https://rranciere.academia.edu/)) \
 *Journal of International Economics*, 2021, 133(C): 103526 \
 <a href="#/" onclick="visib('FLPR2021')">[Abstract]</a> [[PDF]](../files/mediaSentiment.pdf) [[DOI]](https://doi.org/10.1016/j.jinteco.2021.103526) [[Working Paper]](https://www.nber.org/papers/w25353) [[Code and Data]](https://doi.org/10.7910/DVN/QNKFJF) \
@@ -142,7 +142,7 @@ Working Papers
 =========
 ---
 
-[**The Prestakes of Stock Market Investing**](https://www.nber.org/papers/w34420) \
+**The Prestakes of Stock Market Investing** \
 (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/), [Sydney Ludvigson](https://www.sydneyludvigson.com/), and [Sai Ma](https://saimaecon.com/)) \
 <a href="#/" onclick="visib('BLLM2025')">[Abstract]</a> [[PDF]](https://static1.squarespace.com/static/54397369e4b0446f66937a73/t/68f7f961d8b1a3050597bc7b/1761081697166/biases_ml.pdf) [[Working Paper]](https://www.nber.org/papers/w34420) 
 <div id="BLLM2025" style="display: none; text-align: justify; line-height: 1.2" >
@@ -151,7 +151,7 @@ How rational is the stock market and how efficiently does it process information
 <IMG src="../files/fe_decomp.jpg"  alt="fe_decomp" style="width:90%; height:auto;"/>
 </div>
 
-[**Can Social Media Reliably Estimate Unemployment?**](../files/Research_report.pdf) \
+**Can Social Media Reliably Estimate Unemployment?** \
 (with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)) \
 *PNAS Nexus*, Forthcoming 2025 \
 <a href="#/" onclick="visib('FGLST2025')">[Abstract]</a> [[PDF]](../files/Research_report.pdf) [[Supplementary Materials]](../files/sm.pdf) [[Code and Data]](https://github.com/doqlee/twitter_unemployment)
@@ -161,7 +161,7 @@ Digital trace data holds tremendous potential for measuring policy-relevant outc
 <IMG src="../files/FGLST2025.png"  alt="FGLST2025"/>
 </div>
 
-[**Inflation and Labor Markets: A Bottom-Up View**](https://doi.org/10.5089/9798400291807.001) \
+**Inflation and Labor Markets: A Bottom-Up View** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home), [Deniz Igan](https://www.imf.org/en/Research/Researcher-CV/Author/Igan-Deniz?AuthID=163#Background), and [Prachi Mishra](https://prachimishra.in/)) \
 IMF Working Paper No. 220, 2024 \
 <a href="#/" onclick="visib('CILM2024')">[Abstract]</a> [[PDF]](../files/HomebaseInflation.pdf) [[Working Paper]](https://doi.org/10.5089/9798400291807.001)
@@ -171,7 +171,7 @@ U.S. inflation surged in 2021-22 and has since declined, driven largely by a sha
 <IMG src="../files/CILM2024.png"  alt="CILM2024" style="width:70%; height:auto;"/>
 </div>
 
-[**Divergence in Post-Pandemic Earnings Growth: Evidence from Micro Data**](https://doi.org/10.5089/9798400291814.001) \
+**Divergence in Post-Pandemic Earnings Growth: Evidence from Micro Data** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
 IMF Working Paper No. 222, 2024 \
 <a href="#/" onclick="visib('CL2024')">[Abstract]</a> [[PDF]](../files/HB_analysis.pdf) [[Working Paper]](https://doi.org/10.5089/9798400291814.001)
@@ -181,7 +181,7 @@ We analyze post-pandemic labor earnings using employer-employee data and find th
 <IMG src="../files/CL2024.png"  alt="CL2024" style="width:70%; height:auto;"/>
 </div>
 
-[**280 Characters to Employment: Using Twitter to Quantify Job Vacancies**](https://doi.org/10.1609/icwsm.v18i1.31403) \
+**280 Characters to Employment: Using Twitter to Quantify Job Vacancies** \
 (with [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), [Manuel Tonneau](https://manueltonneau.com/), [Samuel Fraiberger](https://www.samuelfraiberger.com/), and [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg)) \
 *Proceedings of the International AAAI Conference on Web and Social Media*, 2024, 18(1), 1477-1489 \
 <a href="#/" onclick="visib('STFGL2024')">[Abstract]</a> [[PDF]](../files/job_offers_twitter_icwsm_2023.pdf) [[DOI]](https://doi.org/10.1609/icwsm.v18i1.31403) [[Code and Data]](https://github.com/Socially-Embedded-Lab/twitter-job-postings)
@@ -191,7 +191,7 @@ Accurate assessment of workforce needs is critical for designing well-informed e
 <IMG src="../files/STFGL2024.png"  alt="STFGL2024"/>
 </div>
 
-[**Zombies on the Brink: Evidence from Japan on the Reversal of Monetary Policy Effectiveness**](https://www.bis.org/publ/work987.htm) \
+**Zombies on the Brink: Evidence from Japan on the Reversal of Monetary Policy Effectiveness** \
 (with [Gee Hee Hong](https://sites.google.com/site/geeheehong/home) and [Deniz Igan](https://www.imf.org/en/Research/Researcher-CV/Author/Igan-Deniz?AuthID=163#Background)) \
 BIS Working Paper No. 987, 2022 \
 <a href="#/" onclick="visib('HIL2022')">[Abstract]</a> [[PDF]](../files/Japan.pdf) [[Working Paper]](https://www.bis.org/publ/work987.htm)
