@@ -27,7 +27,7 @@ redirect_from:
   
   /* Make paper titles (bolded links) black */
   .page__content a strong {
-    color: #24292f !important; /* Sets color to black */
+    color: #24292e !important; /* Sets color to black */
   }
   
   /* Mobile-specific styles for larger profile photo and name */
