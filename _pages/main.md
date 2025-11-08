@@ -82,7 +82,8 @@ redirect_from:
   }
 </style>
 
-I am a Ph.D. candidate in Economics at New York University (NYU). Prior to my Ph.D., I was a research analyst at the International Monetary Fund (IMF).
+I am a Ph.D. candidate in Economics at New York University (NYU). \
+Prior to my Ph.D., I was a research analyst at the International Monetary Fund (IMF).
 * Interests: Asset Pricing, Macroeconomics, Behavioral Finance 
 * Email: [dql204@nyu.edu](mailto:dql204@nyu.edu) 
 * **I am on the 2025-2026 academic job market.**
@@ -96,7 +97,7 @@ Job Market Paper
 **Belief Distortions and Unemployment Fluctuations** \
 <a href="#/" onclick="visib('BDUF')">[Abstract]</a> [[PDF]](../files/belief_distortions_unemployment_fluctuations.pdf) [[Online Appendix]](../files/onlineappendix.pdf)  
 <div id="BDUF" style="display: none; text-align: justify; line-height: 1.2" >
-This paper studies the dynamics of asset prices and unemployment when expectations deviate from a rational benchmark. Using machine learning forecasts as an objective benchmark for rational and efficient beliefs, I quantify distortions in survey forecasts of firms' future cash flows and discount rates. Survey forecasts overreact to cash flow news, while machine forecasts do not. These distortions explain a large share of variation in aggregate and firm-level hiring. Following positive idiosyncratic shocks, firms with distorted beliefs overhire relative to firms whose beliefs are objective. These distorted beliefs about firms' future cash flows can explain both volatility in aggregate unemployment and dispersion in firm-level hiring. A search model in which firms learn about the long-run mean of their cash flows with fading memory can reproduce these patterns by generating a large share of observed volatility in unemployment and asset valuations. 
+This paper studies the dynamics of asset prices and unemployment when expectations deviate from a rational benchmark. Using machine learning forecasts as a benchmark for objective beliefs, I quantify distortions in survey forecasts that overreact to cash flow news. These distortions explain over 60% of the variation in hiring at both the aggregate and firm levels. Following positive idiosyncratic shocks, firms with distorted beliefs overhire relative to firms whose beliefs are objective, while their stock returns initially overshoot and later reverse. Under objective beliefs, neither hiring nor returns respond to idiosyncratic shocks, as such shocks are transitory and diversifiable. These belief distortions thus generate predictable co-movement between hiring and returns, linking valuation errors in financial markets to real employment fluctuations. A search model in which firms learn about cash flows with fading memory reproduces these patterns by generating a large share of observed volatility in both asset valuations and unemployment. 
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="BDUF" style="width:90%; height:auto;"/>
 </div>
@@ -153,7 +154,7 @@ How rational is the stock market and how efficiently does it process information
 
 **Can Social Media Reliably Estimate Unemployment?** \
 (with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)) \
-*PNAS Nexus*, Forthcoming 2025 \
+*PNAS Nexus*, Forthcoming 2026 \
 <a href="#/" onclick="visib('FGLST2025')">[Abstract]</a> [[PDF]](../files/Research_report.pdf) [[Supplementary Materials]](../files/sm.pdf) [[Code and Data]](https://github.com/doqlee/twitter_unemployment)
 <div id="FGLST2025" style="display: none; text-align: justify; line-height: 1.2" >
 Digital trace data holds tremendous potential for measuring policy-relevant outcomes in real-time, yet its reliability is often questioned. Here, we propose a principled yet simple approach: capturing individual disclosures of unemployment using a fine-tuned artificial intelligence (AI) model and post-stratification adjustment using inferred user demographics. We show that our methodology consistently outperforms the industry's forecasting average, and can improve the predictions of U.S. unemployment insurance claims, up to two weeks in advance, at the national, state, and city levels at both turbulent and stable times. The results demonstrate the potential of combining AI models with statistical modeling to complement traditional survey methodology, and contribute to better-informed policymaking, especially at turbulent times.
