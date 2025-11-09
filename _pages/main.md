@@ -94,7 +94,7 @@ Prior to my Ph.D., I was a research analyst at the International Monetary Fund (
 Job Market Paper
 =========
 ---
-**Belief Distortions and Unemployment Fluctuations** \
+**Belief Distortions, Asset Prices, and Unemployment Fluctuations** \
 <a href="#/" onclick="visib('BDUF')">[Abstract]</a> [[PDF]](../files/belief_distortions_unemployment_fluctuations.pdf) [[Online Appendix]](../files/onlineappendix.pdf)  
 <div id="BDUF" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies the dynamics of asset prices and unemployment when expectations deviate from a rational benchmark. Using machine learning forecasts as a benchmark for objective beliefs, I quantify distortions in survey forecasts that overreact to cash flow news. These distortions explain over 60% of the variation in hiring at both the aggregate and firm levels. Following positive idiosyncratic shocks, firms with distorted beliefs overhire relative to firms whose beliefs are objective, while their stock returns initially overshoot and later reverse. Under objective beliefs, neither hiring nor returns respond to idiosyncratic shocks, as such shocks are transitory and diversifiable. These belief distortions thus generate predictable co-movement between hiring and returns, linking valuation errors in financial markets to real employment fluctuations. A search model in which firms learn about cash flows with fading memory reproduces these patterns by generating a large share of observed volatility in both asset valuations and unemployment. 
