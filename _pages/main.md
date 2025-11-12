@@ -103,6 +103,53 @@ This paper studies the dynamics of asset prices and unemployment when expectatio
 </div>
 <br>
 
+Working Papers
+=========
+---
+
+**The Prestakes of Stock Market Investing** \
+(with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/), [Sydney Ludvigson](https://www.sydneyludvigson.com/), and [Sai Ma](https://saimaecon.com/)) \
+<a href="#/" onclick="visib('BLLM2025')">[Abstract]</a> [[PDF]](https://static1.squarespace.com/static/54397369e4b0446f66937a73/t/68f7f961d8b1a3050597bc7b/1761081697166/biases_ml.pdf) [[Working Paper]](https://www.nber.org/papers/w34420) 
+<div id="BLLM2025" style="display: none; text-align: justify; line-height: 1.2" >
+How rational is the stock market and how efficiently does it process information? We use machine learning to establish a practical measure of rational and efficient expectation formation while identifying distortions and inefficiencies in the subjective beliefs of market participants. The algorithm independently learns, stays attentive to fundamentals, credit risk, and sentiment, and makes abrupt course-corrections at critical junctures. By contrast, the subjective beliefs of investors, professionals, and equity analysts do little of this and instead contain predictable mistakes–prestakes–that are especially prevalent in times of market turbulence. Trading schemes that bet against prestakes deliver defensive strategies with large CAPM and Fama-French 5-factor alphas. 
+<br>
+<IMG src="../files/fe_decomp.jpg"  alt="fe_decomp" style="width:90%; height:auto;"/>
+</div>
+
+**Inflation and Labor Markets: A Bottom-Up View** \
+(with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home), [Deniz Igan](https://www.imf.org/en/Research/Researcher-CV/Author/Igan-Deniz?AuthID=163#Background), and [Prachi Mishra](https://prachimishra.in/)) \
+IMF Working Paper No. 220, 2024 \
+<a href="#/" onclick="visib('CILM2024')">[Abstract]</a> [[PDF]](../files/HomebaseInflation.pdf) [[Working Paper]](https://doi.org/10.5089/9798400291807.001)
+<div id="CILM2024" style="display: none; text-align: justify; line-height: 1.2" >
+U.S. inflation surged in 2021-22 and has since declined, driven largely by a sharp drop in goods inflation, though services inflation remains elevated. This paper zooms into services inflation, using proprietary microdata on wages to examine its relationship with service sector wage growth at the Metropolitan Statistical Area (MSA) level. We estimate the wage-price pass-through with a local projection instrumental variable model that exploits variation in labor market tightness across MSAs. Our findings reveal a positive and significant relationship between wages and price growth, with a lag. This suggests that the effects of tight labor markets are persistent and may influence the pace of progression toward the inflation target.
+<br>
+<IMG src="../files/CILM2024.png"  alt="CILM2024" style="width:70%; height:auto;"/>
+</div>
+
+**Divergence in Post-Pandemic Earnings Growth: Evidence from Micro Data** \
+(with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
+IMF Working Paper No. 222, 2024 \
+<a href="#/" onclick="visib('CL2024')">[Abstract]</a> [[PDF]](../files/HB_analysis.pdf) [[Working Paper]](https://doi.org/10.5089/9798400291814.001)
+<div id="CL2024" style="display: none; text-align: justify; line-height: 1.2" >
+We analyze post-pandemic labor earnings using employer-employee data and find that earnings grew faster in counties with tighter labor markets and with greater access to loans through the Paycheck Protection Program (PPP), with the impact of PPP loans especially pronounced in areas with tighter labor markets. This divergence in earnings growth is particularly large for lower-paid, nonmanagerial workers, and those employed in smaller firms. Both wage increases and additional hours worked contributed to the overall growth in earnings. These findings align with a labor market competition framework, where tight labor markets reduce earnings disparities. Access to credit further strengthens the competition by relaxing firms' financing constraints.
+<br>
+<IMG src="../files/CL2024.png"  alt="CL2024" style="width:70%; height:auto;"/>
+</div>
+
+**Zombies on the Brink: Evidence from Japan on the Reversal of Monetary Policy Effectiveness** \
+(with [Gee Hee Hong](https://sites.google.com/site/geeheehong/home) and [Deniz Igan](https://www.imf.org/en/Research/Researcher-CV/Author/Igan-Deniz?AuthID=163#Background)) \
+BIS Working Paper No. 987, 2022 \
+<a href="#/" onclick="visib('HIL2022')">[Abstract]</a> [[PDF]](../files/Japan.pdf) [[Working Paper]](https://www.bis.org/publ/work987.htm)
+<div id="HIL2022" style="display: none; text-align: justify; line-height: 1.2" >
+How does unconventional monetary policy affect corporate capital structure and investment decisions? We study the transmission channel of quantitative easing and its potential diminishing returns on investment from a corporate finance perspective. Using a rich bank-firm matched data of Japanese firms with information on corporate debt and investment, we study how firms adjust their capital structure in response to the changes in term premia. Investment responds positively to a reduction in the term premium on average. However, there is a significant degree of cross-sectional variation in firm response: healthier firms increase capital spending and cash holdings, while financially vulnerable firms take advantage of lower long-term yields to refinance without increasing investment.
+<br>
+<IMG src="../files/HIL2022.png"  alt="HIL2022" style="width:70%; height:auto;"/>
+</div>
+
+<div id="Teaching">
+</div>
+<br>
+
 Publications
 =========
 ---
@@ -137,20 +184,6 @@ We investigate the relationship between media sentiment and international equity
 <br>
 <IMG src="../files/FLPR2021.png"  alt="FLPR2021" style="width:70%; height:auto;"/>
 </div>
-<br>
-
-Working Papers
-=========
----
-
-**The Prestakes of Stock Market Investing** \
-(with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/), [Sydney Ludvigson](https://www.sydneyludvigson.com/), and [Sai Ma](https://saimaecon.com/)) \
-<a href="#/" onclick="visib('BLLM2025')">[Abstract]</a> [[PDF]](https://static1.squarespace.com/static/54397369e4b0446f66937a73/t/68f7f961d8b1a3050597bc7b/1761081697166/biases_ml.pdf) [[Working Paper]](https://www.nber.org/papers/w34420) 
-<div id="BLLM2025" style="display: none; text-align: justify; line-height: 1.2" >
-How rational is the stock market and how efficiently does it process information? We use machine learning to establish a practical measure of rational and efficient expectation formation while identifying distortions and inefficiencies in the subjective beliefs of market participants. The algorithm independently learns, stays attentive to fundamentals, credit risk, and sentiment, and makes abrupt course-corrections at critical junctures. By contrast, the subjective beliefs of investors, professionals, and equity analysts do little of this and instead contain predictable mistakes–prestakes–that are especially prevalent in times of market turbulence. Trading schemes that bet against prestakes deliver defensive strategies with large CAPM and Fama-French 5-factor alphas. 
-<br>
-<IMG src="../files/fe_decomp.jpg"  alt="fe_decomp" style="width:90%; height:auto;"/>
-</div>
 
 **Can Social Media Reliably Estimate Unemployment?** \
 (with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)) \
@@ -162,26 +195,6 @@ Digital trace data holds tremendous potential for measuring policy-relevant outc
 <IMG src="../files/FGLST2025.png"  alt="FGLST2025"/>
 </div>
 
-**Inflation and Labor Markets: A Bottom-Up View** \
-(with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home), [Deniz Igan](https://www.imf.org/en/Research/Researcher-CV/Author/Igan-Deniz?AuthID=163#Background), and [Prachi Mishra](https://prachimishra.in/)) \
-IMF Working Paper No. 220, 2024 \
-<a href="#/" onclick="visib('CILM2024')">[Abstract]</a> [[PDF]](../files/HomebaseInflation.pdf) [[Working Paper]](https://doi.org/10.5089/9798400291807.001)
-<div id="CILM2024" style="display: none; text-align: justify; line-height: 1.2" >
-U.S. inflation surged in 2021-22 and has since declined, driven largely by a sharp drop in goods inflation, though services inflation remains elevated. This paper zooms into services inflation, using proprietary microdata on wages to examine its relationship with service sector wage growth at the Metropolitan Statistical Area (MSA) level. We estimate the wage-price pass-through with a local projection instrumental variable model that exploits variation in labor market tightness across MSAs. Our findings reveal a positive and significant relationship between wages and price growth, with a lag. This suggests that the effects of tight labor markets are persistent and may influence the pace of progression toward the inflation target.
-<br>
-<IMG src="../files/CILM2024.png"  alt="CILM2024" style="width:70%; height:auto;"/>
-</div>
-
-**Divergence in Post-Pandemic Earnings Growth: Evidence from Micro Data** \
-(with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
-IMF Working Paper No. 222, 2024 \
-<a href="#/" onclick="visib('CL2024')">[Abstract]</a> [[PDF]](../files/HB_analysis.pdf) [[Working Paper]](https://doi.org/10.5089/9798400291814.001)
-<div id="CL2024" style="display: none; text-align: justify; line-height: 1.2" >
-We analyze post-pandemic labor earnings using employer-employee data and find that earnings grew faster in counties with tighter labor markets and with greater access to loans through the Paycheck Protection Program (PPP), with the impact of PPP loans especially pronounced in areas with tighter labor markets. This divergence in earnings growth is particularly large for lower-paid, nonmanagerial workers, and those employed in smaller firms. Both wage increases and additional hours worked contributed to the overall growth in earnings. These findings align with a labor market competition framework, where tight labor markets reduce earnings disparities. Access to credit further strengthens the competition by relaxing firms' financing constraints.
-<br>
-<IMG src="../files/CL2024.png"  alt="CL2024" style="width:70%; height:auto;"/>
-</div>
-
 **280 Characters to Employment: Using Twitter to Quantify Job Vacancies** \
 (with [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), [Manuel Tonneau](https://manueltonneau.com/), [Samuel Fraiberger](https://www.samuelfraiberger.com/), and [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg)) \
 *Proceedings of the International AAAI Conference on Web and Social Media*, 2024, 18(1), 1477-1489 \
@@ -190,19 +203,6 @@ We analyze post-pandemic labor earnings using employer-employee data and find th
 Accurate assessment of workforce needs is critical for designing well-informed economic policy and improving market efficiency. While surveys are the gold standard for estimating when and where workers are needed, they also have important limitations, most notably their substantial costs, dependence on existing and extensive surveying infrastructure, and limited temporal, geographical, and sectorial resolution. Here, we investigate the potential of social media to provide a complementary signal for estimating labor market demand. We introduce a novel statistical approach for extracting information about the location and occupation advertised in job vacancies posted on Twitter. We then construct an aggregate index of labor market demand by occupational class in every major U.S. city from 2015 to 2022, which we evaluate against two sources of official statistics and an index from a large aggregator of online job postings. We find that the newly constructed index is strongly correlated with official statistics and, in some cases, advantageous compared to statistics from job aggregators. Moreover, we demonstrate that our index can robustly improve the prediction of official statistics across occupations and states.
 <br>
 <IMG src="../files/STFGL2024.png"  alt="STFGL2024"/>
-</div>
-
-**Zombies on the Brink: Evidence from Japan on the Reversal of Monetary Policy Effectiveness** \
-(with [Gee Hee Hong](https://sites.google.com/site/geeheehong/home) and [Deniz Igan](https://www.imf.org/en/Research/Researcher-CV/Author/Igan-Deniz?AuthID=163#Background)) \
-BIS Working Paper No. 987, 2022 \
-<a href="#/" onclick="visib('HIL2022')">[Abstract]</a> [[PDF]](../files/Japan.pdf) [[Working Paper]](https://www.bis.org/publ/work987.htm)
-<div id="HIL2022" style="display: none; text-align: justify; line-height: 1.2" >
-How does unconventional monetary policy affect corporate capital structure and investment decisions? We study the transmission channel of quantitative easing and its potential diminishing returns on investment from a corporate finance perspective. Using a rich bank-firm matched data of Japanese firms with information on corporate debt and investment, we study how firms adjust their capital structure in response to the changes in term premia. Investment responds positively to a reduction in the term premium on average. However, there is a significant degree of cross-sectional variation in firm response: healthier firms increase capital spending and cash holdings, while financially vulnerable firms take advantage of lower long-term yields to refinance without increasing investment.
-<br>
-<IMG src="../files/HIL2022.png"  alt="HIL2022" style="width:70%; height:auto;"/>
-</div>
-
-<div id="Teaching">
 </div>
 <br>
 
