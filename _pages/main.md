@@ -109,6 +109,7 @@ Working Papers
 
 **The Prestakes of Stock Market Investing** \
 (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/), [Sydney Ludvigson](https://www.sydneyludvigson.com/), and [Sai Ma](https://saimaecon.com/)) \
+NBER Working Paper No. 34420, 2025 \
 <a href="#/" onclick="visib('BLLM2025')">[Abstract]</a> [[PDF]](https://static1.squarespace.com/static/54397369e4b0446f66937a73/t/68f7f961d8b1a3050597bc7b/1761081697166/biases_ml.pdf) [[Working Paper]](https://www.nber.org/papers/w34420) 
 <div id="BLLM2025" style="display: none; text-align: justify; line-height: 1.2" >
 How rational is the stock market and how efficiently does it process information? We use machine learning to establish a practical measure of rational and efficient expectation formation while identifying distortions and inefficiencies in the subjective beliefs of market participants. The algorithm independently learns, stays attentive to fundamentals, credit risk, and sentiment, and makes abrupt course-corrections at critical junctures. By contrast, the subjective beliefs of investors, professionals, and equity analysts do little of this and instead contain predictable mistakes–prestakes–that are especially prevalent in times of market turbulence. Trading schemes that bet against prestakes deliver defensive strategies with large CAPM and Fama-French 5-factor alphas. 
