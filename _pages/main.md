@@ -84,7 +84,7 @@ redirect_from:
 
 I am a Ph.D. candidate in Economics at New York University (NYU). \
 Prior to my Ph.D., I was a research analyst at the International Monetary Fund (IMF).
-* Interests: Macroeconomics, Asset Pricing, Behavioral Finance 
+* Interests: Macroeconomics, Asset Pricing
 * Email: [dql204@nyu.edu](mailto:dql204@nyu.edu) 
 * **I am on the 2025-2026 academic job market.**
 
