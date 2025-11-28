@@ -212,6 +212,7 @@ Education
 ---
 * Ph.D. in Economics, New York University, 2026 (Expected)
 * B.A. in Economics and B.S. in Mathematics, University of Chicago, 2017  
+* Diploma, Daewon Foreign Language High School, 2011
 
 <div id="Research">
 </div>
