@@ -91,6 +91,10 @@ Prior to my Ph.D., I was a research analyst at the International Monetary Fund (
 [**[CV]**](../files/CV_Do_Lee.pdf)
 <br><br>
 
+<div id="Research">
+</div>
+<br>
+
 Job Market Paper
 =========
 ---
@@ -146,10 +150,6 @@ How does unconventional monetary policy affect corporate capital structure and i
 <br>
 <IMG src="../files/HIL2022.png"  alt="HIL2022" style="width:70%; height:auto;"/>
 </div>
-
-<div id="Teaching">
-</div>
-<br>
 
 Publications
 =========
@@ -214,7 +214,7 @@ Education
 * B.A. in Economics and B.S. in Mathematics, University of Chicago, 2017  
 * Diploma, Daewon Foreign Language High School, 2011
 
-<div id="Research">
+<div id="Teaching">
 </div>
 <br>
 
