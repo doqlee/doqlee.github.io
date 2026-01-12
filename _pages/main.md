@@ -89,11 +89,10 @@ Prior to my Ph.D., I was a research analyst at the International Monetary Fund (
 * **I am on the 2025-2026 academic job market.**
 
 [**[CV]**](../files/CV_Do_Lee.pdf)
-<br><br>
+<br>
 
 <div id="Research">
 </div>
-<br>
 
 Job Market Paper
 =========
@@ -105,7 +104,6 @@ This paper studies the dynamics of asset prices and unemployment when expectatio
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="BDUF" style="width:90%; height:auto;"/>
 </div>
-<br>
 
 Working Papers
 =========
@@ -205,7 +203,6 @@ Accurate assessment of workforce needs is critical for designing well-informed e
 <br>
 <IMG src="../files/STFGL2024.png"  alt="STFGL2024"/>
 </div>
-<br>
 
 Education
 =========
@@ -216,7 +213,6 @@ Education
 
 <div id="Teaching">
 </div>
-<br>
 
 Teaching
 =========
