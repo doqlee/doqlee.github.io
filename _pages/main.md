@@ -83,10 +83,9 @@ redirect_from:
 </style>
 
 I am a Ph.D. candidate in Economics at New York University (NYU). \
-Prior to my Ph.D., I was a research analyst at the International Monetary Fund (IMF).
+In September 2026, I will join the International Monetary Fund (IMF) as an Economist. 
 * Interests: Macroeconomics, Asset Pricing
 * Email: [dql204@nyu.edu](mailto:dql204@nyu.edu) 
-* **I am on the 2025-2026 academic job market.**
 
 [**[CV]**](../files/CV_Do_Lee.pdf)
 <br>
