@@ -120,7 +120,7 @@ How rational is the stock market and how efficiently does it process information
 
 **The Expectation Channel of Mortgage Policy** \
 (with [Seongjin Park](https://sites.google.com/view/seongjinpark/home?authuser=0)) \
-<a href="#/" onclick="visib('PL2024')">[Abstract]</a> [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4982133)
+<a href="#/" onclick="visib('PL2024')">[Abstract]</a> [[Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4982133)
 <div id="PL2024" style="display: none; text-align: justify; line-height: 1.2" >
 Mortgage-borrowing restrictions, including caps on loan-to-value (LTV)
 and payment-to-income (PTI) ratios, are widely understood to affect
