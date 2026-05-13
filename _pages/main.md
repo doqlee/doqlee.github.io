@@ -173,11 +173,14 @@ How does unconventional monetary policy affect corporate capital structure and i
 <IMG src="../files/HIL2022.png"  alt="HIL2022" style="width:70%; height:auto;"/>
 </div>
 
+
 Work in Progress
 =========
 ---
 
 **Diagnostic Expectations and the Global Financial Cycle**
+
+**The Subjective User Cost of Labor**
 
 
 Publications
