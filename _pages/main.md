@@ -118,6 +118,31 @@ How rational is the stock market and how efficiently does it process information
 <IMG src="../files/fe_decomp.jpg"  alt="fe_decomp" style="width:90%; height:auto;"/>
 </div>
 
+**The Expectation Channel of Mortgage Policy** \
+(with [Seongjin Park](https://sites.google.com/view/seongjinpark/home?authuser=0)) \
+<a href="#/" onclick="visib('PL2024')">[Abstract]</a> [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4982133)
+<div id="PL2024" style="display: none; text-align: justify; line-height: 1.2" >
+Mortgage-borrowing restrictions, including caps on loan-to-value (LTV)
+and payment-to-income (PTI) ratios, are widely understood to affect
+housing markets by tightening or relaxing household credit constraints.
+This paper shows that these policies also shape housing market outcomes
+by altering homebuyers' expectations. I study a major relaxation of
+LTV/PTI limits in South Korea in 2014, which signaled that the
+government would take a more supportive stance toward the housing
+market. After the reform, the strongest price increases occurred in
+areas where the borrowing limits were of limited importance but where
+house prices were sensitive to shifts in expectations. In these areas,
+homebuyers became more optimistic and engaged in speculative home
+purchases. Some of this activity was financed through interest-free,
+peer-to-peer lending that was not subject to formal credit regulations.
+Taken together, the findings show that mortgage policies influence
+housing markets not only through their direct, mechanical effects on
+credit constraints but also by shaping how homebuyers form expectations
+about future conditions.
+<br>
+<IMG src="../files/PL2024.png"  alt="PL2024" style="width:70%; height:auto;"/>
+</div>
+
 **Inflation and Labor Markets: A Bottom-Up View** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home), [Deniz Igan](https://cepr.org/about/people/deniz-igan), and [Prachi Mishra](https://prachimishra.in/)) \
 IMF Working Paper No. 220, 2024 \
