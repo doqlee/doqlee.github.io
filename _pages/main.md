@@ -241,7 +241,7 @@ Accurate assessment of workforce needs is critical for designing well-informed e
 Education
 =========
 ---
-* Ph.D. in Economics, New York University, 2026 (Expected)
+* Ph.D. in Economics, New York University, 2026
 * B.A. in Economics and B.S. in Mathematics, University of Chicago, 2017  
 * Diploma, Daewon Foreign Language High School, 2011
 
