@@ -82,7 +82,7 @@ redirect_from:
   }
 </style>
 
-I am a Ph.D. candidate in Economics at New York University (NYU). \
+I received my Ph.D. in Economics from New York University (NYU) in 2026. \
 In September 2026, I will join the International Monetary Fund (IMF) as an Economist. 
 * Interests: Macroeconomics, Asset Pricing
 * Email: [dql204@nyu.edu](mailto:dql204@nyu.edu) 
