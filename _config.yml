@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Do Q Lee"
+title                    : "Do Lee"
 title_separator          : "-"
-name                     : &name "Do Q Lee"
-description              : &description "Do Lee (이두규) is a Ph.D. Candidate in Economics at New York University (NYU)"
+name                     : &name "Do Lee"
+description              : &description "Do Lee (이두규) received his Ph.D. in Economics from New York University (NYU) and will join the International Monetary Fund (IMF) as an Economist in September 2026."
 url                      : https://doqlee.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "doqlee/doqlee.github.io"
@@ -23,9 +23,9 @@ repository               : "doqlee/doqlee.github.io"
 author:
   # Biographic information
   avatar           : "../files/profile.jpg"
-  name             : "Do Q Lee"
+  name             : "Do Lee"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D. Candidate in Economics at New York University"
+  bio              : "Ph.D. in Economics, New York University"
   location         : # "New York, NY"
   employer         : # "New York University"
   uri              : # URL
