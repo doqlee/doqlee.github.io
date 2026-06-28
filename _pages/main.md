@@ -166,7 +166,7 @@ Work in Progress
 
 **The Subjective User Cost of Labor**
 
-**Carbon Regulation and ESG Decoupling** with Huisun Eom and Kwangmin Jung
+**Carbon Regulation and ESG Decoupling** with [Huisun Eom](https://airm.postech.ac.kr/airm/mem/member.do) and [Kwangmin Jung](https://airm.postech.ac.kr/airm/mem/director.do)
 
 Publications
 =========
