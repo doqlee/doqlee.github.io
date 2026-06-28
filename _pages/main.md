@@ -122,23 +122,7 @@ How rational is the stock market and how efficiently does it process information
 (with [Seongjin Park](https://sites.google.com/view/seongjinpark/home?authuser=0)) \
 <a href="#/" onclick="visib('PL2024')">[Abstract]</a> [[Working Paper]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4982133)
 <div id="PL2024" style="display: none; text-align: justify; line-height: 1.2" >
-Mortgage-borrowing restrictions, including caps on loan-to-value (LTV)
-and payment-to-income (PTI) ratios, are widely understood to affect
-housing markets by tightening or relaxing household credit constraints.
-This paper shows that these policies also shape housing market outcomes
-by altering homebuyers' expectations. I study a major relaxation of
-LTV/PTI limits in South Korea in 2014, which signaled that the
-government would take a more supportive stance toward the housing
-market. After the reform, the strongest price increases occurred in
-areas where the borrowing limits were of limited importance but where
-house prices were sensitive to shifts in expectations. In these areas,
-homebuyers became more optimistic and engaged in speculative home
-purchases. Some of this activity was financed through interest-free,
-peer-to-peer lending that was not subject to formal credit regulations.
-Taken together, the findings show that mortgage policies influence
-housing markets not only through their direct, mechanical effects on
-credit constraints but also by shaping how homebuyers form expectations
-about future conditions.
+Mortgage policies influence household borrowing and house prices not only through their mechanical effects on borrowing constraints, but also through their direct effects on house price expectations. For identification, we exploit unique settings in South Korea where the housing market separates into expectation-sensitive and credit-constrained areas, and where there exists speculative private debt that is unaffected by mortgage policies. Following a major relaxation of LTV/PTI limits that signaled a more supportive government stance toward housing markets, house prices rose sharply in expectation-sensitive districts rather than credit-constrained ones, with the response beginning even before the new limits took effect. The private debt also surged in these districts, driven by landlords' speculative housing investment, confirming that expectations drove housing investment independently of credit constraint changes. These findings imply that the effectiveness of mortgage policy depends not only on the credit constraints it sets, but also on the signals it sends to markets.
 <br>
 <IMG src="../files/PL2024.png"  alt="PL2024" style="width:70%; height:auto;"/>
 </div>
