@@ -182,6 +182,7 @@ Work in Progress
 
 **The Subjective User Cost of Labor**
 
+**Carbon Regulation and ESG Decoupling** with Huisun Eom and Kwangmin Jung
 
 Publications
 =========
