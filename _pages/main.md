@@ -82,10 +82,10 @@ redirect_from:
   }
 </style>
 
-I received my Ph.D. in Economics from New York University (NYU) in 2026. \
-In September 2026, I will join the International Monetary Fund (IMF) as an Economist. 
+I am an Economist in the Economist Program at the International Monetary Fund (IMF). \
+I received my Ph.D. in Economics from New York University (NYU) in 2026.
 * Interests: Macroeconomics, Asset Pricing
-* Email: [dql204@nyu.edu](mailto:dql204@nyu.edu) 
+* Email: [dlee2@imf.org](mailto:dlee2@imf.org)
 
 [**[CV]**](../files/CV_Do_Lee.pdf)
 <br>
