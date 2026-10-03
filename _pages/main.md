@@ -82,7 +82,7 @@ redirect_from:
   }
 </style>
 
-I am an Economist in the Economist Program at the International Monetary Fund (IMF). \
+I am an Economist (EP) at the International Monetary Fund (IMF). \
 I received my Ph.D. in Economics from New York University (NYU) in 2026.
 * Interests: Macroeconomics, Asset Pricing
 * Email: [dlee2@imf.org](mailto:dlee2@imf.org)
