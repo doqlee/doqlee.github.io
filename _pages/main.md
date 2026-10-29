@@ -130,7 +130,7 @@ Mortgage policies influence household borrowing and house prices not only throug
 **Inflation and Labor Markets: A Bottom-Up View** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home), [Deniz Igan](https://cepr.org/about/people/deniz-igan), and [Prachi Mishra](https://prachimishra.in/)) \
 IMF Working Paper No. 220, 2024 \
-<a href="#/" onclick="visib('CILM2024')">[Abstract]</a> [[PDF]](../files/HomebaseInflation.pdf) [[Working Paper]](https://doi.org/10.5089/9798400291807.001)
+<a href="#/" onclick="visib('CILM2024')">[Abstract]</a> [[PDF]](../files/HomebaseInflation.pdf) [[Working Paper]](https://cepr.org/publications/dp19594)
 <div id="CILM2024" style="display: none; text-align: justify; line-height: 1.2" >
 U.S. inflation surged in 2021-22 and has since declined, driven largely by a sharp drop in goods inflation, though services inflation remains elevated. This paper zooms into services inflation, using proprietary microdata on wages to examine its relationship with service sector wage growth at the Metropolitan Statistical Area (MSA) level. We estimate the wage-price pass-through with a local projection instrumental variable model that exploits variation in labor market tightness across MSAs. Our findings reveal a positive and significant relationship between wages and price growth, with a lag. This suggests that the effects of tight labor markets are persistent and may influence the pace of progression toward the inflation target.
 <br>
