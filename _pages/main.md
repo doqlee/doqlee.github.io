@@ -108,14 +108,6 @@ Working Papers
 =========
 ---
 
-**Diagnostic Expectations and the Global Financial Cycle** \
-<a href="#/" onclick="visib('DEGFC2026')">[Abstract]</a> [[PDF]](../files/diagnostic_expectations_gfc.pdf)
-<div id="DEGFC2026" style="display: none; text-align: justify; line-height: 1.2" >
-Equity prices co-move strongly across countries, while cross-border equity flows co-move much less. This paper studies the role of expectations in explaining this feature of the global financial cycle. Using analysts' earnings forecasts for firms in 97 countries over 1995 to 2024, I extract a real-time global belief factor from forecast revisions. Long-horizon forecasts over-react to the global belief factor, which also predicts a boom and bust in the global financial cycle. In a multi-country model where foreign and home investors over-weight recent news about global earnings growth, calibrated beliefs reproduce the boom and bust and the gap between price and flow comovement.
-<br>
-<IMG src="../files/DEGFC2026.png"  alt="DEGFC2026" style="width:90%; height:auto;"/>
-</div>
-
 **The Prestakes of Stock Market Investing** \
 (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/), [Sydney Ludvigson](https://www.sydneyludvigson.com/), and [Sai Ma](https://saimaecon.com/)) \
 NBER Working Paper No. 34420, 2025 \
@@ -124,6 +116,14 @@ NBER Working Paper No. 34420, 2025 \
 How rational is the stock market and how efficiently does it process information? We use machine learning to establish a practical measure of rational and efficient expectation formation while identifying distortions and inefficiencies in the subjective beliefs of market participants. The algorithm independently learns, stays attentive to fundamentals, credit risk, and sentiment, and makes abrupt course-corrections at critical junctures. By contrast, the subjective beliefs of investors, professionals, and equity analysts do little of this and instead contain predictable mistakes–prestakes–that are especially prevalent in times of market turbulence. Trading schemes that bet against prestakes deliver defensive strategies with large CAPM and Fama-French 5-factor alphas. 
 <br>
 <IMG src="../files/fe_decomp.jpg"  alt="fe_decomp" style="width:90%; height:auto;"/>
+</div>
+
+**Diagnostic Expectations and the Global Financial Cycle** \
+<a href="#/" onclick="visib('DEGFC2026')">[Abstract]</a> [[PDF]](../files/diagnostic_expectations_gfc.pdf)
+<div id="DEGFC2026" style="display: none; text-align: justify; line-height: 1.2" >
+Equity prices co-move strongly across countries, while cross-border equity flows co-move much less. This paper studies the role of expectations in explaining this feature of the global financial cycle. Using analysts' earnings forecasts for firms in 97 countries over 1995 to 2024, I extract a real-time global belief factor from forecast revisions. Long-horizon forecasts over-react to the global belief factor, which also predicts a boom and bust in the global financial cycle. In a multi-country model where foreign and home investors over-weight recent news about global earnings growth, calibrated beliefs reproduce the boom and bust and the gap between price and flow comovement.
+<br>
+<IMG src="../files/DEGFC2026.png"  alt="DEGFC2026" style="width:90%; height:auto;"/>
 </div>
 
 **The Expectation Channel of Mortgage Policy** \
