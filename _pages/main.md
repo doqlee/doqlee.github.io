@@ -98,7 +98,7 @@ Working Papers
 ---
 
 **Belief Distortions, Asset Prices, and Unemployment Fluctuations** \
-[[PDF]](../files/belief_distortions_unemployment_fluctuations.pdf) [[Online Appendix]](../files/onlineappendix.pdf) [[Slides]](../files/slides.pdf)   
+[[PDF]](../files/belief_distortions_unemployment_fluctuations.pdf) [[Slides]](../files/slides.pdf)   
 <div id="BDUF" style="text-align: justify; line-height: 1.2" >
 This paper studies the dynamics of asset prices and unemployment when expectations deviate from an objective benchmark. Using machine learning forecasts as a benchmark for objective beliefs, I quantify distortions in survey forecasts of corporate cash flows. Survey forecasts overreact to cash flow news, while machine forecasts do not. These belief distortions explain over 60% of the variation in hiring at both the aggregate and firm levels. Following idiosyncratic shocks to their cash flows, firms with distorted beliefs adjust their hiring excessively relative to firms with objective beliefs, while their stock returns initially overshoot and subsequently reverse. A search model in which firms learn about cash flows with fading memory reproduces not only the overreaction in beliefs but also the volatility in asset valuations and unemployment. Distorted beliefs that raise asset valuations also raise the value firms attach to new hires, leading stock prices and hiring to move together. 
 <br>
