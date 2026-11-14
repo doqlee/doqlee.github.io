@@ -93,9 +93,10 @@ I received my Ph.D. in Economics from New York University (NYU) in 2026.
 <div id="Research">
 </div>
 
-Job Market Paper
+Working Papers
 =========
 ---
+
 **Belief Distortions, Asset Prices, and Unemployment Fluctuations** \
 [[PDF]](../files/belief_distortions_unemployment_fluctuations.pdf) [[Online Appendix]](../files/onlineappendix.pdf) [[Slides]](../files/slides.pdf)   
 <div id="BDUF" style="text-align: justify; line-height: 1.2" >
@@ -103,10 +104,6 @@ This paper studies the dynamics of asset prices and unemployment when expectatio
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="BDUF" style="width:90%; height:auto;"/>
 </div>
-
-Working Papers
-=========
----
 
 **The Prestakes of Stock Market Investing** \
 (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/), [Sydney Ludvigson](https://www.sydneyludvigson.com/), and [Sai Ma](https://saimaecon.com/)) \
