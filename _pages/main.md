@@ -119,7 +119,7 @@ How rational is the stock market and how efficiently does it process information
 </div>
 
 **Diagnostic Expectations and the Global Financial Cycle** \
-<a href="#/" onclick="visib('DEGFC2026')">[Abstract]</a> [[PDF]](../files/diagnostic_expectations_gfc.pdf)
+<a href="#/" onclick="visib('DEGFC2026')">[Abstract]</a> [[PDF]](../files/diagnostic_expectations_gfc.pdf) [[SSRN]](https://papers.ssrn.com/abstract=7706139)
 <div id="DEGFC2026" style="display: none; text-align: justify; line-height: 1.2" >
 Equity prices co-move strongly across countries, while cross-border equity flows co-move much less. This paper studies the role of expectations in explaining this feature of the global financial cycle. Using analysts' earnings forecasts for firms in 97 countries over 1995 to 2024, I extract a real-time global belief factor from forecast revisions. Long-horizon forecasts over-react to the global belief factor, which also predicts a boom and bust in the global financial cycle. In a multi-country model where foreign and home investors over-weight recent news about global earnings growth, calibrated beliefs reproduce the boom and bust and the gap between price and flow comovement.
 <br>
