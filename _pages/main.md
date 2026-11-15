@@ -105,6 +105,14 @@ This paper studies asset prices and unemployment when firms' expectations deviat
 <IMG src="../files/time_series_cycle_h20.png"  alt="BDUF" style="width:90%; height:auto;"/>
 </div>
 
+**Diagnostic Expectations and the Global Financial Cycle** \
+<a href="#/" onclick="visib('DEGFC2026')">[Abstract]</a> [[PDF]](../files/diagnostic_expectations_gfc.pdf) [[SSRN]](https://papers.ssrn.com/abstract=7706139)
+<div id="DEGFC2026" style="display: none; text-align: justify; line-height: 1.2" >
+Equity prices co-move strongly across countries, while cross-border equity flows co-move much less. This paper studies the role of expectations in explaining this feature of the global financial cycle. Using analysts' earnings forecasts for firms in 97 countries over 1995 to 2024, I extract a real-time global belief factor from forecast revisions. Long-horizon forecasts over-react to the global belief factor, which also predicts a boom and bust in the global financial cycle. In a multi-country model where foreign and home investors over-weight recent news about global earnings growth, calibrated beliefs reproduce the boom and bust and the gap between price and flow comovement.
+<br>
+<IMG src="../files/DEGFC2026.png"  alt="DEGFC2026" style="width:90%; height:auto;"/>
+</div>
+
 **The Prestakes of Stock Market Investing** \
 (with [Francesco Bianchi](https://sites.google.com/view/francescobianchi/), [Sydney Ludvigson](https://www.sydneyludvigson.com/), and [Sai Ma](https://saimaecon.com/)) \
 NBER Working Paper No. 34420, 2025 \
@@ -113,14 +121,6 @@ NBER Working Paper No. 34420, 2025 \
 How rational is the stock market and how efficiently does it process information? We use machine learning to establish a practical measure of rational and efficient expectation formation while identifying distortions and inefficiencies in the subjective beliefs of market participants. The algorithm independently learns, stays attentive to fundamentals, credit risk, and sentiment, and makes abrupt course-corrections at critical junctures. By contrast, the subjective beliefs of investors, professionals, and equity analysts do little of this and instead contain predictable mistakes–prestakes–that are especially prevalent in times of market turbulence. Trading schemes that bet against prestakes deliver defensive strategies with large CAPM and Fama-French 5-factor alphas. 
 <br>
 <IMG src="../files/fe_decomp.jpg"  alt="fe_decomp" style="width:90%; height:auto;"/>
-</div>
-
-**Diagnostic Expectations and the Global Financial Cycle** \
-<a href="#/" onclick="visib('DEGFC2026')">[Abstract]</a> [[PDF]](../files/diagnostic_expectations_gfc.pdf) [[SSRN]](https://papers.ssrn.com/abstract=7706139)
-<div id="DEGFC2026" style="display: none; text-align: justify; line-height: 1.2" >
-Equity prices co-move strongly across countries, while cross-border equity flows co-move much less. This paper studies the role of expectations in explaining this feature of the global financial cycle. Using analysts' earnings forecasts for firms in 97 countries over 1995 to 2024, I extract a real-time global belief factor from forecast revisions. Long-horizon forecasts over-react to the global belief factor, which also predicts a boom and bust in the global financial cycle. In a multi-country model where foreign and home investors over-weight recent news about global earnings growth, calibrated beliefs reproduce the boom and bust and the gap between price and flow comovement.
-<br>
-<IMG src="../files/DEGFC2026.png"  alt="DEGFC2026" style="width:90%; height:auto;"/>
 </div>
 
 **The Expectation Channel of Mortgage Policy** \
@@ -174,6 +174,26 @@ Work in Progress
 Publications
 =========
 ---
+**Can Social Media Reliably Estimate Unemployment?** \
+(with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)) \
+*PNAS Nexus*, 2025, 4(12): pgaf309 \
+<a href="#/" onclick="visib('FGLST2025')">[Abstract]</a> [[PDF]](../files/pgaf309.pdf) [[DOI]](https://doi.org/10.1093/pnasnexus/pgaf309) [[Supplementary Materials]](../files/sm.pdf) [[Code and Data]](https://github.com/doqlee/twitter_unemployment)
+<div id="FGLST2025" style="display: none; text-align: justify; line-height: 1.2" >
+Digital trace data holds tremendous potential for measuring policy-relevant outcomes in real-time, yet its reliability is often questioned. Here, we propose a principled yet simple approach: capturing individual disclosures of unemployment using a fine-tuned artificial intelligence (AI) model and post-stratification adjustment using inferred user demographics. We show that our methodology consistently outperforms the industry's forecasting average, and can improve the predictions of U.S. unemployment insurance claims, up to two weeks in advance, at the national, state, and city levels at both turbulent and stable times. The results demonstrate the potential of combining AI models with statistical modeling to complement traditional survey methodology, and contribute to better-informed policymaking, especially at turbulent times.
+<br>
+<IMG src="../files/FGLST2025.png"  alt="FGLST2025"/>
+</div>
+
+**280 Characters to Employment: Using Twitter to Quantify Job Vacancies** \
+(with [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), [Manuel Tonneau](https://manueltonneau.com/), [Samuel Fraiberger](https://www.samuelfraiberger.com/), and [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg)) \
+*Proceedings of the International AAAI Conference on Web and Social Media*, 2024, 18(1), 1477-1489 \
+<a href="#/" onclick="visib('STFGL2024')">[Abstract]</a> [[PDF]](../files/job_offers_twitter_icwsm_2023.pdf) [[DOI]](https://doi.org/10.1609/icwsm.v18i1.31403) [[Code and Data]](https://github.com/Socially-Embedded-Lab/twitter-job-postings)
+<div id="STFGL2024" style="display: none; text-align: justify; line-height: 1.2" >
+Accurate assessment of workforce needs is critical for designing well-informed economic policy and improving market efficiency. While surveys are the gold standard for estimating when and where workers are needed, they also have important limitations, most notably their substantial costs, dependence on existing and extensive surveying infrastructure, and limited temporal, geographical, and sectorial resolution. Here, we investigate the potential of social media to provide a complementary signal for estimating labor market demand. We introduce a novel statistical approach for extracting information about the location and occupation advertised in job vacancies posted on Twitter. We then construct an aggregate index of labor market demand by occupational class in every major U.S. city from 2015 to 2022, which we evaluate against two sources of official statistics and an index from a large aggregator of online job postings. We find that the newly constructed index is strongly correlated with official statistics and, in some cases, advantageous compared to statistics from job aggregators. Moreover, we demonstrate that our index can robustly improve the prediction of official statistics across occupations and states.
+<br>
+<IMG src="../files/STFGL2024.png"  alt="STFGL2024"/>
+</div>
+
 **Small and Vulnerable: Small Firm Productivity in the Great Productivity Slowdown** \
 (with [Sophia Chen](https://sites.google.com/site/sophiachenecon/home)) \
 *Journal of Financial Economics*, 2023, 147(1): 49-74 \
@@ -204,26 +224,6 @@ Media: [[IMF Blog]](https://www.imf.org/en/Blogs/Articles/2019/12/16/blog-the-po
 We investigate the relationship between media sentiment and international equity prices using a new dataset of 4 million news articles published between 1991 and 2015. Three key results emerge. First, news sentiment robustly predicts future daily returns around the world. However, we find a sharp contrast between the effect of local news and that of global news: whereas local news optimism (pessimism) predicts a small and transitory increase (decrease) in local equity returns, global news sentiment has a larger impact on returns that does not reverse in the short run. Second, news sentiment affects local prices mainly through the investment decisions of foreign—rather than local—investors. Third, large variations in global news sentiment predominantly happen in the absence of new information about fundamentals, suggesting that movements in global sentiment capture variations in investors' sentiment. Taken together, our findings illustrate the key role played by foreign news and investors' sentiment in driving local asset prices.
 <br>
 <IMG src="../files/FLPR2021.png"  alt="FLPR2021" style="width:70%; height:auto;"/>
-</div>
-
-**Can Social Media Reliably Estimate Unemployment?** \
-(with [Samuel Fraiberger](https://www.samuelfraiberger.com/), [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg), [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), and [Manuel Tonneau](https://manueltonneau.com/)) \
-*PNAS Nexus*, 2025, 4(12): pgaf309 \
-<a href="#/" onclick="visib('FGLST2025')">[Abstract]</a> [[PDF]](../files/pgaf309.pdf) [[DOI]](https://doi.org/10.1093/pnasnexus/pgaf309) [[Supplementary Materials]](../files/sm.pdf) [[Code and Data]](https://github.com/doqlee/twitter_unemployment)
-<div id="FGLST2025" style="display: none; text-align: justify; line-height: 1.2" >
-Digital trace data holds tremendous potential for measuring policy-relevant outcomes in real-time, yet its reliability is often questioned. Here, we propose a principled yet simple approach: capturing individual disclosures of unemployment using a fine-tuned artificial intelligence (AI) model and post-stratification adjustment using inferred user demographics. We show that our methodology consistently outperforms the industry's forecasting average, and can improve the predictions of U.S. unemployment insurance claims, up to two weeks in advance, at the national, state, and city levels at both turbulent and stable times. The results demonstrate the potential of combining AI models with statistical modeling to complement traditional survey methodology, and contribute to better-informed policymaking, especially at turbulent times.
-<br>
-<IMG src="../files/FGLST2025.png"  alt="FGLST2025"/>
-</div>
-
-**280 Characters to Employment: Using Twitter to Quantify Job Vacancies** \
-(with [Boris Sobol](https://scholar.google.com/citations?user=LyWADs0AAAAJ&hl=en), [Manuel Tonneau](https://manueltonneau.com/), [Samuel Fraiberger](https://www.samuelfraiberger.com/), and [Nir Grinberg](https://cris.bgu.ac.il/en/persons/nir-grinberg)) \
-*Proceedings of the International AAAI Conference on Web and Social Media*, 2024, 18(1), 1477-1489 \
-<a href="#/" onclick="visib('STFGL2024')">[Abstract]</a> [[PDF]](../files/job_offers_twitter_icwsm_2023.pdf) [[DOI]](https://doi.org/10.1609/icwsm.v18i1.31403) [[Code and Data]](https://github.com/Socially-Embedded-Lab/twitter-job-postings)
-<div id="STFGL2024" style="display: none; text-align: justify; line-height: 1.2" >
-Accurate assessment of workforce needs is critical for designing well-informed economic policy and improving market efficiency. While surveys are the gold standard for estimating when and where workers are needed, they also have important limitations, most notably their substantial costs, dependence on existing and extensive surveying infrastructure, and limited temporal, geographical, and sectorial resolution. Here, we investigate the potential of social media to provide a complementary signal for estimating labor market demand. We introduce a novel statistical approach for extracting information about the location and occupation advertised in job vacancies posted on Twitter. We then construct an aggregate index of labor market demand by occupational class in every major U.S. city from 2015 to 2022, which we evaluate against two sources of official statistics and an index from a large aggregator of online job postings. We find that the newly constructed index is strongly correlated with official statistics and, in some cases, advantageous compared to statistics from job aggregators. Moreover, we demonstrate that our index can robustly improve the prediction of official statistics across occupations and states.
-<br>
-<IMG src="../files/STFGL2024.png"  alt="STFGL2024"/>
 </div>
 
 Education
