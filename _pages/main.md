@@ -98,15 +98,15 @@ Working Papers
 ---
 
 **Belief Distortions, Asset Prices, and Unemployment Fluctuations** \
-[[PDF]](../files/belief_distortions_unemployment_fluctuations.pdf?v=20261121h) [[SSRN]](https://papers.ssrn.com/abstract=5226836) [[Slides]](../files/slides.pdf?v=20261121h)   
-<div id="BDUF" style="text-align: justify; line-height: 1.2" >
+<a href="#/" onclick="visib('BDUF')">[Abstract]</a> [[PDF]](../files/belief_distortions_unemployment_fluctuations.pdf?v=20261121h) [[SSRN]](https://papers.ssrn.com/abstract=5226836) [[Slides]](../files/slides.pdf?v=20261121h)   
+<div id="BDUF" style="display: none; text-align: justify; line-height: 1.2" >
 This paper studies asset prices and unemployment when firms' expectations deviate from an objective benchmark. Using machine learning forecasts as a benchmark for objective beliefs, I quantify distortions in survey forecasts of corporate cash flows. Survey forecasts overreact to cash flow news, while machine forecasts show no significant overreaction at any horizon. In a present-value decomposition across firms, the cash-flow component's share of hiring dispersion is 46 percentage points higher under survey forecasts than under machine forecasts. Following idiosyncratic upward revisions to cash flow forecasts, firms hire more, while their valuations overshoot and then partly reverse. A standard search-and-matching model with measured beliefs generates 65% of the standard deviation of unemployment and 85% of the cross-sectional standard deviation of hiring, against 7% and 34% under full-information rational expectations. Beliefs that raise asset valuations also raise the value firms attach to new hires, generating comovement between stock prices and hiring.
 <br>
 <IMG src="../files/time_series_cycle_h20.png"  alt="BDUF" style="width:90%; height:auto;"/>
 </div>
 
 **Diagnostic Expectations and the Global Financial Cycle** \
-<a href="#/" onclick="visib('DEGFC2026')">[Abstract]</a> [[PDF]](../files/diagnostic_expectations_gfc.pdf?v=20261121d) [[SSRN]](https://papers.ssrn.com/abstract=7706139)
+<a href="#/" onclick="visib('DEGFC2026')">[Abstract]</a> [[PDF]](../files/diagnostic_expectations_gfc.pdf?v=20261121d) [[SSRN]](https://papers.ssrn.com/abstract=7706139) [[Slides]](../files/slides_gfc.pdf?v=20261121a)
 <div id="DEGFC2026" style="display: none; text-align: justify; line-height: 1.2" >
 Equity prices co-move strongly across countries, while cross-border equity flows co-move much less. This paper studies the role of expectations in explaining this feature of the global financial cycle. Using analysts' earnings forecasts for firms in 95 countries over 1995 to 2024, I extract a real-time global belief factor from forecast revisions. Long-horizon forecasts over-react to the global belief factor, which also predicts a boom and bust in the global financial cycle. In a multi-country model where foreign and home investors over-weight recent news about global earnings growth, calibrated beliefs reproduce the boom and bust and the gap between price and flow comovement.
 <br>
