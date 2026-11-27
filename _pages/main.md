@@ -114,7 +114,7 @@ Equity prices co-move strongly across countries, while cross-border equity flows
 </div>
 
 **The Subjective User Cost of Labor** \
-<a href="#/" onclick="visib('SUC2026')">[Abstract]</a> [[PDF]](../files/subjective_user_cost.pdf?v=20261127b) [[SSRN]](https://papers.ssrn.com/abstract=7759578)
+<a href="#/" onclick="visib('SUC2026')">[Abstract]</a> [[PDF]](../files/subjective_user_cost.pdf?v=20261127c) [[SSRN]](https://papers.ssrn.com/abstract=7759578)
 <div id="SUC2026" style="display: none; text-align: justify; line-height: 1.2" >
 The user cost of labor, the difference in the expected present value of wages between two matches formed one period apart, governs hiring in search models. Under full-information rational expectations (FIRE) it is procyclical, challenging wage-rigidity explanations of unemployment volatility. I measure it under subjective wage expectations reported in surveys of workers and firms. Subjectively expected wage growth barely moves over the business cycle, even as realized wage growth falls with unemployment. Because subjectively expected wage growth does not rise in recessions, the perceived user cost stays high, hiring stays costly, and firms cut vacancies by more. In a search model with these subjective expectations, tightness and unemployment are twice as volatile as under FIRE and half as volatile as in the data. A payroll subsidy indexed to the cycle costs half as much per unit of employment created.
 <br>
